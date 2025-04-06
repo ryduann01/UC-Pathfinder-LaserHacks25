@@ -1,0 +1,75 @@
+/* Google Fonts: Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #ffffff;
+  color: #003366;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2, h3 {
+  color: #003366;
+  margin-bottom: 1rem;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 0.75rem;
+  margin: 0.5rem 0 1rem 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+button {
+  background-color: #0078D4;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+.card {
+  background: #f9f9f9;
+  border: 1px solid #e2e2e2;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+
+.card.collapsible {
+  cursor: pointer;
+}
+
+.card-content {
+  display: none;
+  margin-top: 0.5rem;
+}
+
+.card.active .card-content {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1rem;
+  }
+
+  input, select, button {
+    font-size: 0.95rem;
+  }
+}

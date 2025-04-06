@@ -1,0 +1,541 @@
+broad_discipline,college/school,major_name,applicants,admits,enrolls,admit_gpa_range,enroll_gpa_range,admit_rate,yield_rate,campus
+Architecture,Not applicable,Real estate and development,72,50,16,3.47 - 3.98,3.50 - 3.80,69%,32%,UCSD
+Arts & Humanities,Not applicable,Art history/criticism,61,45,7,3.42 - 3.88,3.31 - 3.88,74%,16%,UCSD
+Arts & Humanities,Not applicable,Dance,23,17,4,3.34 - 3.89,masked,74%,24%,UCSD
+Arts & Humanities,Not applicable,Drama,152,94,28,3.35 - 3.88,3.18 - 3.77,62%,30%,UCSD
+Arts & Humanities,Not applicable,History,339,252,26,3.46 - 3.91,3.18 - 3.67,74%,10%,UCSD
+Arts & Humanities,Not applicable,"Literature, english/american",262,187,25,3.45 - 3.91,3.54 - 3.77,71%,13%,UCSD
+Arts & Humanities,Not applicable,Literature/writing,170,121,21,3.29 - 3.84,3.14 - 3.82,71%,17%,UCSD
+Arts & Humanities,Not applicable,Music,89,65,11,3.50 - 3.85,3.26 - 3.72,73%,17%,UCSD
+Arts & Humanities,Not applicable,Philosophy,261,198,19,3.39 - 3.91,3.12 - 3.77,76%,10%,UCSD
+Arts & Humanities,Not applicable,Speculative design,75,58,13,3.57 - 3.92,3.57 - 3.92,77%,22%,UCSD
+Arts & Humanities,Not applicable,Studio art,162,115,28,3.32 - 3.89,3.20 - 3.84,71%,24%,UCSD
+Arts & Humanities,Not applicable,Visual arts - media,366,258,69,3.48 - 3.91,3.29 - 3.79,70%,27%,UCSD
+Arts & Humanities,Not applicable,World literature & cultural studies,55,29,9,3.66 - 4.00,3.35 - 3.87,53%,31%,UCSD
+Business,Not applicable,Business economics,"1,496",814,201,3.58 - 3.94,3.41 - 3.88,54%,25%,UCSD
+Computer Science,Not applicable,Computer science,"1,441",242,105,3.89 - 4.00,3.86 - 4.00,17%,43%,UCSD
+Computer Science,Not applicable,Data science,422,270,86,3.73 - 4.00,3.63 - 3.93,64%,32%,UCSD
+Education,Not applicable,Education sciences,171,122,23,3.42 - 3.82,3.34 - 3.65,71%,19%,UCSD
+Engineering,Not applicable,Aerospace engineering,174,46,9,3.82 - 3.97,3.83 - 3.97,26%,20%,UCSD
+Engineering,Not applicable,Bioengineering,66,15,5,3.87 - 3.99,3.96 - 4.00,23%,33%,UCSD
+Engineering,Not applicable,Bioengineering (biotech),40,17,12,3.69 - 3.92,3.67 - 3.84,43%,71%,UCSD
+Engineering,Not applicable,Bioengineering: biosystems,20,13,7,3.65 - 3.89,3.49 - 3.80,65%,54%,UCSD
+Engineering,Not applicable,Chemical engineering,95,42,11,3.41 - 3.85,3.31 - 3.70,44%,26%,UCSD
+Engineering,Not applicable,Computer engineering,280,93,36,3.71 - 3.95,3.66 - 3.90,33%,39%,UCSD
+Engineering,Not applicable,Electrical engineering - bs,297,178,70,3.52 - 3.93,3.41 - 3.84,60%,39%,UCSD
+Engineering,Not applicable,Nanoengineering,16,9,5,3.33 - 4.00,3.31 - 4.00,56%,56%,UCSD
+Engineering,Not applicable,Structural engineering,147,64,21,3.51 - 3.84,3.48 - 3.75,44%,33%,UCSD
+Life Sciences,Not applicable,Bioengineering - bioinformatics,10,6,3,3.68 - 3.93,masked,60%,50%,UCSD
+Life Sciences,Not applicable,Biology,692,403,130,3.38 - 3.86,3.28 - 3.78,58%,32%,UCSD
+Life Sciences,Not applicable,Biology - bioinformatics,33,17,6,3.34 - 3.80,3.09 - 3.40,52%,35%,UCSD
+Life Sciences,Not applicable,"Ecology, behavior & evolution",78,33,11,3.17 - 3.74,3.21 - 3.55,42%,33%,UCSD
+Life Sciences,Not applicable,"Environmental systems - ecology, behavior, evolution",40,22,8,3.53 - 3.83,3.64 - 3.79,55%,36%,UCSD
+Life Sciences,Not applicable,Human biology,487,297,104,3.46 - 3.90,3.34 - 3.82,61%,35%,UCSD
+Life Sciences,Not applicable,Marine biology,103,41,24,3.33 - 3.81,3.23 - 3.80,40%,59%,UCSD
+Life Sciences,Not applicable,Microbiology,98,58,18,3.53 - 3.96,3.42 - 3.91,59%,31%,UCSD
+Life Sciences,Not applicable,Molecular & cell biology,242,175,44,3.51 - 3.90,3.29 - 3.81,72%,25%,UCSD
+Life Sciences,Not applicable,Neurobiology,165,96,31,3.43 - 3.90,3.12 - 3.65,58%,32%,UCSD
+Other Health Science,Not applicable,Bachelor of science in public health w/ concentration in community hlth sci,29,21,5,3.54 - 3.83,3.54 - 3.77,72%,24%,UCSD
+Other Health Science,Not applicable,Bachelor of science in public health w/ concentration in hlth policy and mgmt sc,26,19,5,3.34 - 3.76,3.17 - 3.57,73%,26%,UCSD
+Other Health Science,Not applicable,Bachelor of science in public health w/ concentration in medicine science,66,49,12,3.48 - 3.88,3.26 - 3.74,74%,24%,UCSD
+Other Health Science,Not applicable,Bachelor of science in public health w/con in epidemiology,28,23,6,3.32 - 3.90,3.30 - 3.87,82%,26%,UCSD
+Other Health Science,Not applicable,Global health,122,105,39,3.42 - 3.82,3.28 - 3.78,86%,37%,UCSD
+Other/Interdisciplinary,Not applicable,Cognitive and behavioral neuroscience,125,77,31,3.38 - 3.85,3.36 - 3.83,62%,40%,UCSD
+Other/Interdisciplinary,Not applicable,Cognitive science,366,298,128,3.55 - 3.91,3.48 - 3.83,81%,43%,UCSD
+Other/Interdisciplinary,Not applicable,Communication arts,"1,034",752,177,3.38 - 3.90,3.27 - 3.81,73%,24%,UCSD
+Other/Interdisciplinary,Not applicable,Global south studies,17,10,3,3.23 - 3.82,masked,59%,30%,UCSD
+Other/Interdisciplinary,Not applicable,Interdisciplinary computer & the arts,33,24,11,3.50 - 3.83,3.42 - 3.66,73%,46%,UCSD
+Other/Interdisciplinary,Not applicable,International studies - anthropology,26,22,4,3.58 - 3.94,masked,85%,18%,UCSD
+Other/Interdisciplinary,Not applicable,International studies - economics,230,191,55,3.50 - 3.87,3.41 - 3.76,83%,29%,UCSD
+Other/Interdisciplinary,Not applicable,International studies - international business,505,370,125,3.38 - 3.85,3.25 - 3.77,73%,34%,UCSD
+Other/Interdisciplinary,Not applicable,International studies - linguistics,24,18,4,3.30 - 3.76,masked,75%,22%,UCSD
+Other/Interdisciplinary,Not applicable,International studies - political science,69,44,13,3.25 - 3.98,3.19 - 3.78,64%,30%,UCSD
+Other/Interdisciplinary,Not applicable,International studies - sociology,73,55,8,3.63 - 4.00,3.94 - 4.00,75%,15%,UCSD
+Other/Interdisciplinary,Not applicable,Linguistics,73,53,3,3.40 - 4.00,masked,73%,6%,UCSD
+Other/Interdisciplinary,Not applicable,Mathematics - computer science,327,265,86,3.55 - 3.95,3.33 - 3.85,81%,32%,UCSD
+Physical Sciences/Math,Not applicable,Applied mathematics,156,105,17,3.60 - 3.95,3.41 - 3.74,67%,16%,UCSD
+Physical Sciences/Math,Not applicable,Chemistry,168,73,13,3.48 - 3.95,3.26 - 3.72,43%,18%,UCSD
+Physical Sciences/Math,Not applicable,Chemistry - biochemistry,182,90,31,3.51 - 3.90,3.45 - 3.92,49%,34%,UCSD
+Physical Sciences/Math,Not applicable,Mathematics,267,174,32,3.48 - 3.88,3.33 - 3.85,65%,18%,UCSD
+Physical Sciences/Math,Not applicable,Mathematics - applied science,28,21,4,3.58 - 3.87,masked,75%,19%,UCSD
+Physical Sciences/Math,Not applicable,Mathematics/economics,74,47,5,3.60 - 4.00,2.75 - 3.42,64%,11%,UCSD
+Physical Sciences/Math,Not applicable,Pharmacological chemistry,41,17,6,3.58 - 3.90,3.55 - 3.86,41%,35%,UCSD
+Physical Sciences/Math,Not applicable,Physics,94,48,7,3.62 - 3.95,3.36 - 3.84,51%,15%,UCSD
+Physical Sciences/Math,Not applicable,Probability and statistics,96,65,8,3.68 - 3.93,3.80 - 3.91,68%,12%,UCSD
+Public Health,Not applicable,Public health,170,118,43,3.32 - 3.85,3.23 - 3.79,69%,36%,UCSD
+Social Sciences,Not applicable,Anthropology,140,98,23,3.34 - 3.79,3.18 - 3.70,70%,23%,UCSD
+Social Sciences,Not applicable,Anthropology with concentration in climate change and human solutions,45,34,5,3.47 - 3.82,3.33 - 3.58,76%,15%,UCSD
+Social Sciences,Not applicable,Anthropology(concentration in sociocultral anthropology),95,72,7,3.38 - 3.91,3.13 - 3.70,76%,10%,UCSD
+Social Sciences,Not applicable,Biological anthropology,70,63,16,3.37 - 3.76,3.37 - 3.63,90%,25%,UCSD
+Social Sciences,Not applicable,Business psychology,235,166,38,3.30 - 3.84,3.14 - 3.56,71%,23%,UCSD
+Social Sciences,Not applicable,Economics,838,542,167,3.54 - 3.92,3.46 - 3.88,65%,31%,UCSD
+Social Sciences,Not applicable,Ethnic studies,31,19,3,3.28 - 3.94,masked,61%,16%,UCSD
+Social Sciences,Not applicable,Human developmental sciences,101,84,30,3.43 - 3.80,3.36 - 3.79,83%,36%,UCSD
+Social Sciences,Not applicable,Human developmental sciences with specialization in equity and diversity,9,6,4,3.49 - 3.76,masked,67%,67%,UCSD
+Social Sciences,Not applicable,Japanese studies,64,48,7,3.45 - 3.86,3.07 - 3.48,75%,15%,UCSD
+Social Sciences,Not applicable,Political science,600,460,85,3.44 - 3.91,3.20 - 3.75,77%,18%,UCSD
+Social Sciences,Not applicable,Political science - american politics,38,32,5,3.59 - 3.90,3.17 - 3.90,84%,16%,UCSD
+Social Sciences,Not applicable,Political science - international relations,123,85,16,3.42 - 3.83,3.37 - 3.82,69%,19%,UCSD
+Social Sciences,Not applicable,Political science - public law,162,114,29,3.42 - 3.90,3.19 - 3.79,70%,25%,UCSD
+Social Sciences,Not applicable,Political science - public policy,56,45,7,3.46 - 3.86,3.44 - 3.77,80%,16%,UCSD
+Social Sciences,Not applicable,"Political science /race, ethnicity and politics",25,20,4,3.37 - 3.91,masked,80%,20%,UCSD
+Social Sciences,Not applicable,Political science/data analytics,93,88,19,3.51 - 3.88,3.29 - 3.91,95%,22%,UCSD
+Social Sciences,Not applicable,Psychology,"1,489","1,063",317,3.39 - 3.88,3.34 - 3.84,71%,30%,UCSD
+Social Sciences,Not applicable,Psychology with a specialization in clinical psychology,170,117,46,3.40 - 3.84,3.37 - 3.83,69%,39%,UCSD
+Social Sciences,Not applicable,Psychology with a specialization in cognitive psychology,42,33,11,3.37 - 3.92,3.56 - 3.93,79%,33%,UCSD
+Social Sciences,Not applicable,Psychology with a specialization in developmental psychology,58,33,13,3.23 - 3.86,3.16 - 3.80,57%,39%,UCSD
+Social Sciences,Not applicable,Psychology with a specialization in human health,52,40,22,3.44 - 3.87,3.39 - 3.83,77%,55%,UCSD
+Social Sciences,Not applicable,Psychology with a specialization in social psychology,45,22,7,3.39 - 3.86,3.33 - 3.66,49%,32%,UCSD
+Social Sciences,Not applicable,Sociology,699,560,78,3.42 - 3.91,3.17 - 3.68,80%,14%,UCSD
+Social Sciences,Not applicable,Sociology - culture and communications,39,30,12,3.33 - 3.87,3.24 - 3.89,77%,40%,UCSD
+Social Sciences,Not applicable,Sociology - economy and society,53,39,12,3.43 - 3.83,3.47 - 3.73,74%,31%,UCSD
+Social Sciences,Not applicable,Sociology - law and society,170,117,32,3.27 - 3.87,3.13 - 3.82,69%,27%,UCSD
+Social Sciences,Not applicable,Sociology - science and medicine,57,49,10,3.41 - 3.89,3.34 - 3.96,86%,20%,UCSD
+Social Sciences,Not applicable,Sociology - social inequality,31,21,5,3.40 - 3.86,3.28 - 3.47,68%,24%,UCSD
+Social Sciences,Not applicable,Urban studies & planning,83,60,16,3.33 - 3.83,3.53 - 3.79,72%,27%,UCSD
+Arts & Humanities,Not applicable,Art,225,184,30,3.15 - 3.82,3.33 - 3.88,82%,16%,UCSC
+Arts & Humanities,Not applicable,Art and design: games and playable media,130,61,40,3.15 - 3.80,3.13 - 3.78,47%,66%,UCSC
+Arts & Humanities,Not applicable,Art history,57,45,5,2.98 - 3.86,2.68 - 2.89,79%,11%,UCSC
+Arts & Humanities,Not applicable,Film and digital media,464,362,49,3.20 - 3.81,2.97 - 3.75,78%,14%,UCSC
+Arts & Humanities,Not applicable,History,234,196,31,3.04 - 3.85,2.79 - 3.65,84%,16%,UCSC
+Arts & Humanities,Not applicable,Literature,318,263,30,3.22 - 3.84,3.02 - 3.67,83%,11%,UCSC
+Arts & Humanities,Not applicable,Music,67,42,12,3.13 - 3.69,2.89 - 3.50,63%,29%,UCSC
+Arts & Humanities,Not applicable,Philosophy,152,123,14,2.91 - 3.71,2.52 - 3.30,81%,11%,UCSC
+Arts & Humanities,Not applicable,Spanish studies,41,32,3,3.15 - 3.80,masked,78%,9%,UCSC
+Arts & Humanities,Not applicable,Theater arts,86,70,5,3.23 - 3.79,3.10 - 3.67,81%,7%,UCSC
+Business,Not applicable,Business management - economics,"1,027",642,74,3.28 - 3.87,3.05 - 3.61,63%,12%,UCSC
+Computer Science,Not applicable,Computer science,"1,166",605,132,3.56 - 3.93,3.33 - 3.79,52%,22%,UCSC
+Computer Science,Not applicable,Computer science: computer game design,171,95,50,3.18 - 3.75,3.16 - 3.70,56%,53%,UCSC
+Computer Science,Not applicable,Technology and information management,60,33,5,3.45 - 3.93,2.85 - 3.44,55%,15%,UCSC
+Education,Not applicable,"Education, democracy, and justice",12,12,9,3.22 - 3.76,3.32 - 3.77,100%,75%,UCSC
+Engineering,Not applicable,Computer engineering,249,175,31,3.29 - 3.82,3.03 - 3.69,70%,18%,UCSC
+Engineering,Not applicable,Electrical engineering,202,122,12,3.29 - 3.82,3.18 - 3.54,60%,10%,UCSC
+Engineering,Not applicable,Robotics engineering bs,128,65,15,3.33 - 3.79,3.11 - 3.68,51%,23%,UCSC
+Life Sciences,Not applicable,Biochemistry- molecular biology,133,80,9,3.22 - 3.81,2.81 - 3.22,60%,11%,UCSC
+Life Sciences,Not applicable,Biology,615,297,31,3.19 - 3.71,2.82 - 3.44,48%,10%,UCSC
+Life Sciences,Not applicable,Biotechnology,5,5,4,2.98 - 3.58,masked,100%,80%,UCSC
+Life Sciences,Not applicable,Ecology & evolution,61,44,14,3.11 - 3.70,3.13 - 3.65,72%,32%,UCSC
+Life Sciences,Not applicable,Environmental studies,124,77,30,3.20 - 3.78,3.13 - 3.64,62%,39%,UCSC
+Life Sciences,Not applicable,Marine biology,111,57,9,3.09 - 3.64,2.83 - 3.43,51%,16%,UCSC
+Life Sciences,Not applicable,"Molecular, cell, & developmental biology",83,53,6,3.30 - 3.84,3.08 - 3.60,64%,11%,UCSC
+Life Sciences,Not applicable,Neuroscience,99,44,6,3.20 - 3.76,3.17 - 3.93,44%,14%,UCSC
+Other Health Science,Not applicable,Global and community health,22,21,14,3.07 - 3.83,2.91 - 3.71,95%,67%,UCSC
+Other/Interdisciplinary,Not applicable,Cognitive science,126,76,11,3.19 - 3.80,2.79 - 3.54,60%,14%,UCSC
+Other/Interdisciplinary,Not applicable,Legal studies,140,108,10,3.08 - 3.78,2.84 - 3.33,77%,9%,UCSC
+Physical Sciences/Math,Not applicable,Chemistry,112,64,10,3.13 - 3.88,2.87 - 3.77,57%,16%,UCSC
+Physical Sciences/Math,Not applicable,Earth science,114,104,24,3.05 - 3.70,2.89 - 3.46,91%,23%,UCSC
+Physical Sciences/Math,Not applicable,Mathematics,177,143,13,3.11 - 3.87,2.86 - 3.25,81%,9%,UCSC
+Physical Sciences/Math,Not applicable,Physics,67,48,11,2.97 - 3.79,3.00 - 3.39,72%,23%,UCSC
+Public Admin,Not applicable,Community studies,110,90,9,3.23 - 3.77,3.00 - 3.58,82%,10%,UCSC
+Social Sciences,Not applicable,Anthropology,217,181,25,3.10 - 3.74,2.79 - 3.90,83%,14%,UCSC
+Social Sciences,Not applicable,Earth science/anthropology,6,6,5,2.78 - 3.59,2.85 - 3.70,100%,83%,UCSC
+Social Sciences,Not applicable,Economics,517,398,24,3.23 - 3.82,2.81 - 3.47,77%,6%,UCSC
+Social Sciences,Not applicable,Politics,394,330,33,3.12 - 3.80,3.01 - 3.62,84%,10%,UCSC
+Social Sciences,Not applicable,Psychology,"1,372",687,143,3.25 - 3.85,3.20 - 3.78,50%,21%,UCSC
+Social Sciences,Not applicable,Sociology,556,421,53,3.16 - 3.75,3.04 - 3.58,76%,13%,UCSC
+Social Sciences,Not applicable,Women's studies,30,26,4,2.91 - 3.73,masked,87%,15%,UCSC
+Undeclared,Not applicable,Undeclared,232,111,19,3.26 - 3.79,3.12 - 3.74,48%,17%,UCSC
+Unknown,Not applicable,Invalid ccm combination,525,275,25,3.27 - 3.83,3.25 - 3.63,52%,9%,UCSC
+Arts & Humanities,College Of Letters & science,Art - studio,193,152,34,3.35 - 3.93,3.35 - 3.88,79%,22%,UCSB
+Arts & Humanities,College Of Letters & science,Art history,132,88,9,3.48 - 3.91,3.50 - 3.85,67%,10%,UCSB
+Arts & Humanities,College Of Letters & science,English,444,340,37,3.39 - 3.89,3.29 - 3.75,77%,11%,UCSB
+Arts & Humanities,College Of Letters & science,Film studies,485,302,67,3.46 - 3.88,3.39 - 3.79,62%,22%,UCSB
+Arts & Humanities,College Of Letters & science,History,333,235,26,3.50 - 3.93,3.35 - 3.85,71%,11%,UCSB
+Arts & Humanities,College Of Letters & science,History of public policy and law,46,29,4,3.34 - 3.87,masked,63%,14%,UCSB
+Arts & Humanities,College Of Letters & science,Japanese,31,25,3,3.35 - 3.90,masked,81%,12%,UCSB
+Arts & Humanities,College Of Letters & science,Linguistics,129,84,18,3.53 - 4.00,3.24 - 3.77,65%,21%,UCSB
+Arts & Humanities,College Of Letters & science,Music,63,24,4,3.44 - 3.76,masked,38%,17%,UCSB
+Arts & Humanities,College Of Letters & science,Philosophy,236,170,17,3.41 - 3.90,3.09 - 3.56,72%,10%,UCSB
+Arts & Humanities,College Of Letters & science,Spanish,55,41,4,3.49 - 3.84,masked,75%,10%,UCSB
+Arts & Humanities,College Of Letters & science,Theater,118,75,10,3.41 - 3.88,3.31 - 3.80,64%,13%,UCSB
+Business,College Of Letters & science,Actuarial science,50,39,10,3.48 - 3.94,3.18 - 3.85,78%,26%,UCSB
+Computer Science,College Of Engineering,Computer science,"1,297",159,12,3.93 - 4.00,3.75 - 4.00,12%,8%,UCSB
+Engineering,College Of Engineering,Chemical engineering,596,118,26,3.61 - 3.89,3.55 - 3.80,20%,22%,UCSB
+Engineering,College Of Engineering,Computer engineering,203,57,4,3.71 - 3.95,masked,28%,7%,UCSB
+Engineering,College Of Engineering,Electrical engineering,224,91,10,3.62 - 3.97,3.74 - 3.94,41%,11%,UCSB
+Life Sciences,College Of Letters & science,Biological sciences,"1,548",699,102,3.46 - 3.88,3.37 - 3.81,45%,15%,UCSB
+Life Sciences,College Of Letters & science,Environmental studies,254,188,60,3.34 - 3.81,3.34 - 3.75,74%,32%,UCSB
+Other/Interdisciplinary,College Of Letters & science,Communication studies,"1,410","1,000",364,3.41 - 3.90,3.33 - 3.81,71%,36%,UCSB
+Other/Interdisciplinary,College Of Letters & science,Global studies,209,151,16,3.30 - 3.89,3.28 - 3.76,72%,11%,UCSB
+Physical Sciences/Math,College Of Letters & science,Applied mathematics,227,195,9,3.54 - 3.94,3.36 - 4.00,86%,5%,UCSB
+Physical Sciences/Math,College Of Letters & science,Chemistry,342,261,34,3.38 - 3.88,3.31 - 3.64,76%,13%,UCSB
+Physical Sciences/Math,College Of Letters & science,Financial mathematics & statistics,80,57,13,3.57 - 3.95,3.40 - 3.60,71%,23%,UCSB
+Physical Sciences/Math,College Of Letters & science,Geology,82,54,16,3.29 - 3.82,3.08 - 3.56,66%,30%,UCSB
+Physical Sciences/Math,College Of Letters & science,Mathematics,254,167,11,3.49 - 3.90,3.49 - 3.81,66%,7%,UCSB
+Physical Sciences/Math,College Of Letters & science,Physics,129,44,6,3.72 - 4.00,3.56 - 3.96,34%,14%,UCSB
+Physical Sciences/Math,College Of Letters & science,Statistics and data science,669,585,88,3.54 - 3.94,3.26 - 3.70,87%,15%,UCSB
+Social Sciences,College Of Letters & science,Anthropology,305,222,40,3.30 - 3.89,3.21 - 3.70,73%,18%,UCSB
+Social Sciences,College Of Letters & science,Biopsychology,244,197,36,3.40 - 3.88,3.36 - 3.92,81%,18%,UCSB
+Social Sciences,College Of Letters & science,Chicano studies,28,14,4,3.35 - 3.81,masked,50%,29%,UCSB
+Social Sciences,College Of Letters & science,Economics,"1,841","1,137",227,3.53 - 3.92,3.44 - 3.83,62%,20%,UCSB
+Social Sciences,College Of Letters & science,Economics and accounting,"1,083",693,121,3.58 - 3.94,3.39 - 3.85,64%,17%,UCSB
+Social Sciences,College Of Letters & science,Feminist studies,39,24,3,3.52 - 3.85,masked,62%,13%,UCSB
+Social Sciences,College Of Letters & science,Geography,70,47,16,3.41 - 3.93,3.33 - 3.61,67%,34%,UCSB
+Social Sciences,College Of Letters & science,Physical geography,12,10,4,3.25 - 3.75,masked,83%,40%,UCSB
+Social Sciences,College Of Letters & science,Political science,864,655,72,3.44 - 3.91,3.24 - 3.68,76%,11%,UCSB
+Social Sciences,College Of Letters & science,Psychological and brain science,"1,229",882,202,3.39 - 3.87,3.25 - 3.75,72%,23%,UCSB
+Social Sciences,College Of Letters & science,Sociology,"1,087",816,151,3.43 - 3.91,3.21 - 3.78,75%,19%,UCSB
+Arts & Humanities,College Of Humanities & social sci,Art,115,42,12,3.04 - 3.85,2.98 - 3.73,37%,29%,UCR
+Arts & Humanities,College Of Humanities & social sci,Art history,72,57,10,2.93 - 3.71,3.01 - 3.73,79%,18%,UCR
+Arts & Humanities,College Of Humanities & social sci,Creative writing,97,78,14,3.10 - 3.70,3.02 - 3.63,80%,18%,UCR
+Arts & Humanities,College Of Humanities & social sci,English,271,213,38,3.16 - 3.77,3.11 - 3.64,79%,18%,UCR
+Arts & Humanities,College Of Humanities & social sci,History,204,161,33,3.10 - 3.75,3.04 - 3.52,79%,20%,UCR
+Arts & Humanities,College Of Humanities & social sci,Japanese language & literature,26,24,4,3.10 - 3.66,masked,92%,17%,UCR
+Arts & Humanities,College Of Humanities & social sci,Liberal studies,64,41,13,3.08 - 3.63,2.95 - 3.67,64%,32%,UCR
+Arts & Humanities,College Of Humanities & social sci,Linguistics,47,38,8,3.04 - 3.79,2.71 - 3.60,81%,21%,UCR
+Arts & Humanities,College Of Humanities & social sci,Media and cultural studies,119,94,14,3.05 - 3.79,3.08 - 3.45,79%,15%,UCR
+Arts & Humanities,College Of Humanities & social sci,Music,63,37,7,2.95 - 3.67,2.78 - 3.54,59%,19%,UCR
+Arts & Humanities,College Of Humanities & social sci,Philosophy,114,90,13,2.94 - 3.78,2.89 - 3.46,79%,14%,UCR
+Arts & Humanities,College Of Humanities & social sci,Spanish,48,36,8,3.36 - 3.84,3.50 - 3.84,75%,22%,UCR
+Arts & Humanities,College Of Humanities & social sci,"Theatre, film and digital production",338,245,38,3.19 - 3.79,3.06 - 3.76,72%,16%,UCR
+Business,School Of Business administration,Business administration,"1,589",959,250,3.20 - 3.82,3.12 - 3.67,60%,26%,UCR
+Computer Science,College Of Engineering,Computer science,"1,580",416,55,3.79 - 4.00,3.70 - 3.92,26%,13%,UCR
+Computer Science,College Of Engineering,Computer science with business applications,135,49,10,3.58 - 3.90,3.38 - 3.77,36%,20%,UCR
+Computer Science,College Of Engineering,Data science,152,57,4,3.52 - 3.91,masked,38%,7%,UCR
+Education,School Of Education,"Education, society, and human development",225,168,44,2.98 - 3.67,2.83 - 3.37,75%,26%,UCR
+Engineering,College Of Engineering,Bioengineering,102,45,8,3.23 - 3.85,3.07 - 3.65,44%,18%,UCR
+Engineering,College Of Engineering,Chemical engineering,87,45,9,3.17 - 3.74,2.65 - 3.63,52%,20%,UCR
+Engineering,College Of Engineering,Computer engineering,188,50,9,3.58 - 3.93,3.23 - 3.52,27%,18%,UCR
+Engineering,College Of Engineering,Electrical engineering,189,94,21,3.16 - 3.79,3.21 - 3.54,50%,22%,UCR
+Engineering,College Of Engineering,Mechanical engineering,352,93,20,3.20 - 3.61,2.99 - 3.53,26%,22%,UCR
+Life Sciences,College Of Humanities & social sci,Neuroscience,54,20,5,3.10 - 3.74,2.96 - 3.37,37%,25%,UCR
+Life Sciences,College Of Natural & agricultural sci,Biochemistry,163,93,20,3.14 - 3.83,2.72 - 3.43,57%,22%,UCR
+Life Sciences,College Of Natural & agricultural sci,Biology,854,434,88,3.20 - 3.78,2.97 - 3.63,51%,20%,UCR
+Life Sciences,College Of Natural & agricultural sci,"Cell, molecular, & developmental biology",133,82,10,3.32 - 3.88,3.13 - 3.54,62%,12%,UCR
+Life Sciences,College Of Natural & agricultural sci,Environmental science,93,32,3,3.11 - 3.75,masked,34%,9%,UCR
+Life Sciences,College Of Natural & agricultural sci,Microbiology,65,36,8,3.21 - 3.87,2.89 - 3.61,55%,22%,UCR
+Life Sciences,College Of Natural & agricultural sci,Neuroscience,97,58,20,2.97 - 3.58,2.91 - 3.66,60%,34%,UCR
+Life Sciences,College Of Natural & agricultural sci,Plant biology,40,14,6,3.22 - 3.87,3.37 - 3.79,35%,43%,UCR
+Other/Interdisciplinary,College Of Humanities & social sci,Global studies,80,69,6,2.97 - 3.66,3.06 - 3.42,86%,9%,UCR
+Physical Sciences/Math,College Of Natural & agricultural sci,Chemistry,130,68,15,3.07 - 3.86,2.86 - 3.52,52%,22%,UCR
+Physical Sciences/Math,College Of Natural & agricultural sci,Mathematics,170,115,19,3.07 - 3.81,2.79 - 3.58,68%,17%,UCR
+Physical Sciences/Math,College Of Natural & agricultural sci,Mathematics for secondary school,16,10,3,3.20 - 3.63,masked,63%,30%,UCR
+Physical Sciences/Math,College Of Natural & agricultural sci,Physics,89,56,12,2.99 - 3.69,2.77 - 3.55,63%,21%,UCR
+Physical Sciences/Math,College Of Natural & agricultural sci,Statistics,38,23,3,3.55 - 3.94,masked,61%,13%,UCR
+Public Admin,College Of Humanities & social sci,Public service - political science,40,32,6,2.94 - 3.65,2.63 - 3.02,80%,19%,UCR
+Public Admin,School Of Public policy,Public policy,114,90,19,3.03 - 3.62,3.00 - 3.50,79%,21%,UCR
+Social Sciences,College Of Humanities & social sci,African-american studies,13,10,4,3.02 - 3.42,masked,77%,40%,UCR
+Social Sciences,College Of Humanities & social sci,Anthropology,135,113,15,3.02 - 3.71,3.08 - 3.62,84%,13%,UCR
+Social Sciences,College Of Humanities & social sci,Business economics,454,287,36,3.35 - 3.88,3.06 - 3.57,63%,13%,UCR
+Social Sciences,College Of Humanities & social sci,Economics,367,279,31,3.25 - 3.80,2.82 - 3.41,76%,11%,UCR
+Social Sciences,College Of Humanities & social sci,Economics/administrative studies,48,28,6,2.91 - 3.85,3.32 - 3.93,58%,21%,UCR
+Social Sciences,College Of Humanities & social sci,Ethnic studies,16,11,4,2.78 - 3.50,masked,69%,36%,UCR
+Social Sciences,College Of Humanities & social sci,Political science,312,262,35,3.11 - 3.78,3.08 - 3.76,84%,13%,UCR
+Social Sciences,College Of Humanities & social sci,Political science / international studies,77,57,5,3.22 - 3.75,3.25 - 3.56,74%,9%,UCR
+Social Sciences,College Of Humanities & social sci,Psychology,"1,153",498,107,3.36 - 3.84,3.31 - 3.84,43%,21%,UCR
+Social Sciences,College Of Humanities & social sci,Sociology,693,587,80,3.08 - 3.73,2.90 - 3.41,85%,14%,UCR
+Social Sciences,College Of Humanities & social sci,Sociology/administration studies,79,64,12,3.06 - 3.79,2.93 - 3.55,81%,19%,UCR
+Undeclared,College Of Natural & agricultural sci,Undeclared - life science,12,12,6,3.29 - 3.67,3.29 - 3.51,100%,50%,UCR
+Arts & Humanities,Not applicable,Literatures in english,85,60,4,3.12 - 3.62,masked,71%,7%,UCM
+Business,Not applicable,Management and business economics,305,201,9,3.10 - 3.77,2.75 - 3.80,66%,4%,UCM
+Engineering,Not applicable,Civil engineering,69,51,3,3.21 - 3.58,masked,74%,6%,UCM
+Engineering,Not applicable,Computer science & engineering,456,180,18,3.36 - 3.85,3.23 - 3.47,39%,10%,UCM
+Engineering,Not applicable,Mechanical engineering,153,97,17,3.11 - 3.66,3.08 - 3.44,63%,18%,UCM
+Life Sciences,Not applicable,Biological sciences,362,148,13,3.16 - 3.73,3.16 - 3.81,41%,9%,UCM
+Other/Interdisciplinary,Not applicable,Cognitive science,48,36,4,3.02 - 3.85,masked,75%,11%,UCM
+Physical Sciences/Math,Not applicable,Applied mathematics,313,182,10,3.27 - 3.69,3.02 - 3.62,58%,5%,UCM
+Public Health,Not applicable,Public health,114,76,7,3.18 - 3.67,2.89 - 3.55,67%,9%,UCM
+Social Sciences,Not applicable,Economics,222,156,3,3.30 - 3.81,masked,70%,2%,UCM
+Social Sciences,Not applicable,Psychology,520,435,47,3.18 - 3.76,2.97 - 3.54,84%,11%,UCM
+Social Sciences,Not applicable,Sociology,158,119,10,3.07 - 3.73,3.01 - 3.51,75%,8%,UCM
+Undeclared,Not applicable,Undeclared,545,497,47,3.08 - 3.69,3.01 - 3.57,91%,9%,UCM
+Unknown,Not applicable,Invalid ccm combination,84,52,3,3.12 - 3.78,masked,62%,6%,UCM
+Architecture,School Of The arts & architecture,Architectural studies,291,28,16,3.78 - 4.00,3.78 - 3.98,10%,57%,UCLA
+Arts & Humanities,College Of Letters & science,American literature & culture,15,7,4,3.60 - 3.86,masked,47%,57%,UCLA
+Arts & Humanities,College Of Letters & science,Art history,147,90,52,3.65 - 3.94,3.64 - 3.94,61%,58%,UCLA
+Arts & Humanities,College Of Letters & science,Asian languages and linguistics,43,13,4,3.66 - 3.90,masked,30%,31%,UCLA
+Arts & Humanities,College Of Letters & science,Chinese,31,13,7,3.61 - 4.00,3.61 - 3.91,42%,54%,UCLA
+Arts & Humanities,College Of Letters & science,Comparative literature,29,12,6,3.60 - 3.96,3.53 - 3.86,41%,50%,UCLA
+Arts & Humanities,College Of Letters & science,English,592,349,177,3.62 - 3.94,3.60 - 3.93,59%,51%,UCLA
+Arts & Humanities,College Of Letters & science,European languages and transcultural studies with french and francophone,15,6,4,3.71 - 3.88,masked,40%,67%,UCLA
+Arts & Humanities,College Of Letters & science,Japanese,41,26,12,3.55 - 3.94,3.54 - 3.80,63%,46%,UCLA
+Arts & Humanities,College Of Letters & science,Korean,26,13,6,3.58 - 3.87,3.75 - 3.87,50%,46%,UCLA
+Arts & Humanities,College Of Letters & science,Linguistics,90,48,34,3.58 - 3.95,3.54 - 3.94,53%,71%,UCLA
+Arts & Humanities,College Of Letters & science,Linguistics - english,13,6,4,3.63 - 3.82,masked,46%,67%,UCLA
+Arts & Humanities,College Of Letters & science,Linguistics & anthropology,30,9,5,3.76 - 3.90,3.77 - 3.90,30%,56%,UCLA
+Arts & Humanities,College Of Letters & science,Linguistics & asian languages & cultures,17,9,4,3.78 - 3.88,masked,53%,44%,UCLA
+Arts & Humanities,College Of Letters & science,Linguistics & computer science,145,51,27,3.76 - 4.00,3.76 - 3.99,35%,53%,UCLA
+Arts & Humanities,College Of Letters & science,Linguistics & psychology,68,31,19,3.58 - 3.93,3.53 - 3.91,46%,61%,UCLA
+Arts & Humanities,College Of Letters & science,Philosophy,311,177,98,3.62 - 3.93,3.61 - 3.92,57%,55%,UCLA
+Arts & Humanities,College Of Letters & science,Pre-history,403,249,167,3.63 - 3.95,3.64 - 3.95,62%,67%,UCLA
+Arts & Humanities,College Of Letters & science,Spanish,46,25,11,3.50 - 3.87,3.51 - 3.87,54%,44%,UCLA
+Arts & Humanities,School Of Music,Ethnomusicology,14,6,5,3.66 - 3.83,3.65 - 3.70,43%,83%,UCLA
+Arts & Humanities,School Of Music,Global jazz studies,30,3,3,masked,masked,10%,100%,UCLA
+Arts & Humanities,School Of Music,Music history and industry,47,4,4,masked,masked,9%,100%,UCLA
+Arts & Humanities,School Of Music,Music performance,42,4,4,masked,masked,10%,100%,UCLA
+Arts & Humanities,School Of The arts & architecture,Art,310,25,16,3.49 - 3.91,3.13 - 3.86,8%,64%,UCLA
+Arts & Humanities,School Of The arts & architecture,Dance,39,14,9,3.58 - 3.89,3.51 - 3.89,36%,64%,UCLA
+Arts & Humanities,School Of The arts & architecture,Design media arts,326,18,17,3.55 - 3.93,3.54 - 3.93,6%,94%,UCLA
+Arts & Humanities,School Of The arts & architecture,World arts & culture,44,7,6,3.64 - 3.93,3.62 - 3.84,16%,86%,UCLA
+Arts & Humanities,"School Of Theater, film and television",Film & television,671,13,11,3.83 - 4.00,3.81 - 4.00,2%,85%,UCLA
+Arts & Humanities,"School Of Theater, film and television",Theater,231,15,14,3.80 - 3.98,3.79 - 3.99,6%,93%,UCLA
+Business,College Of Letters & science,Labor studies,65,24,16,3.58 - 3.86,3.58 - 3.83,37%,67%,UCLA
+Business,College Of Letters & science,Pre-business economics,"2,680",336,188,3.85 - 4.00,3.83 - 4.00,13%,56%,UCLA
+Computer Science,School Of Engineering & applied sci,Computer science,"1,817",92,64,3.97 - 4.00,3.97 - 4.00,5%,70%,UCLA
+Education,College Of Letters & science,Pre-education and social transformation,203,98,62,3.66 - 3.90,3.63 - 3.92,48%,63%,UCLA
+Engineering,School Of Engineering & applied sci,Aerospace engineering,177,26,12,3.85 - 4.00,3.75 - 3.92,15%,46%,UCLA
+Engineering,School Of Engineering & applied sci,Bioengineering,150,16,10,3.89 - 4.00,3.90 - 3.98,11%,63%,UCLA
+Engineering,School Of Engineering & applied sci,Chemical engineering,114,17,8,3.87 - 4.00,3.85 - 3.94,15%,47%,UCLA
+Engineering,School Of Engineering & applied sci,Civil engineering,207,28,7,3.82 - 4.00,3.78 - 3.93,14%,25%,UCLA
+Engineering,School Of Engineering & applied sci,Computer engineering,186,22,9,3.91 - 4.00,3.90 - 4.00,12%,41%,UCLA
+Engineering,School Of Engineering & applied sci,Computer science & engineering,311,38,13,3.96 - 4.00,3.95 - 4.00,12%,34%,UCLA
+Engineering,School Of Engineering & applied sci,Electrical engineering,314,100,62,3.88 - 4.00,3.87 - 4.00,32%,62%,UCLA
+Engineering,School Of Engineering & applied sci,Mechanical engineering,530,77,27,3.89 - 4.00,3.87 - 3.97,15%,35%,UCLA
+Life Sciences,College Of Letters & science,Biochemistry,286,110,66,3.78 - 3.95,3.78 - 3.95,38%,60%,UCLA
+Life Sciences,College Of Letters & science,Biology,"1,051",229,141,3.75 - 4.00,3.73 - 3.96,22%,62%,UCLA
+Life Sciences,College Of Letters & science,"Ecology, behavior & evolution",46,9,4,3.34 - 3.93,masked,20%,44%,UCLA
+Life Sciences,College Of Letters & science,Environmental science,137,46,26,3.50 - 3.84,3.50 - 3.83,34%,57%,UCLA
+Life Sciences,College Of Letters & science,Microbiology - immunology - molecular genetics,145,56,30,3.70 - 3.93,3.57 - 3.90,39%,54%,UCLA
+Life Sciences,College Of Letters & science,"Molecular, cell, & developmental biology",169,72,42,3.80 - 4.00,3.80 - 4.00,43%,58%,UCLA
+Life Sciences,College Of Letters & science,Neuroscience,192,48,32,3.68 - 3.98,3.68 - 3.98,25%,67%,UCLA
+Life Sciences,College Of Letters & science,Physiological science,153,35,27,3.68 - 3.95,3.66 - 3.90,23%,77%,UCLA
+Life Sciences,College Of Letters & science,Pre-computational & systems biology,28,9,6,3.52 - 3.77,3.55 - 3.74,32%,67%,UCLA
+Nursing,School Of Nursing,Nursing - four year program,330,26,26,3.81 - 3.96,3.81 - 3.96,8%,100%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Applied linguistics,20,13,8,3.68 - 4.00,3.74 - 4.00,65%,62%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Classical civilization,18,8,4,3.83 - 4.00,masked,44%,50%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Communication,"1,073",126,96,3.95 - 4.00,3.95 - 4.00,12%,76%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Geography/environmental studies,64,33,13,3.66 - 3.90,3.63 - 3.90,52%,39%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Pre human biology and society,199,54,40,3.82 - 4.00,3.81 - 4.00,27%,74%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Pre-cognitive science,261,89,54,3.78 - 4.00,3.77 - 4.00,34%,61%,UCLA
+Other/Interdisciplinary,College Of Letters & science,Pre-global studies,144,58,34,3.63 - 3.95,3.70 - 3.95,40%,59%,UCLA
+Physical Sciences/Math,College Of Letters & science,Astrophysics,52,20,9,3.65 - 3.98,3.64 - 4.00,38%,45%,UCLA
+Physical Sciences/Math,College Of Letters & science,Chemistry,196,71,26,3.68 - 3.94,3.60 - 3.91,36%,37%,UCLA
+Physical Sciences/Math,College Of Letters & science,Earth and environmental science,58,14,3,3.52 - 3.77,masked,24%,21%,UCLA
+Physical Sciences/Math,College Of Letters & science,Geology,19,10,4,3.66 - 3.86,masked,53%,40%,UCLA
+Physical Sciences/Math,College Of Letters & science,Physics,145,50,16,3.75 - 3.99,3.75 - 3.91,34%,32%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-applied mathematics,200,81,35,3.84 - 3.98,3.87 - 3.98,41%,43%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-data theory,303,118,66,3.86 - 4.00,3.82 - 4.00,39%,56%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-financial actuarial mathematics,61,22,16,3.84 - 4.00,3.85 - 3.97,36%,73%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-mathematics,184,61,23,3.80 - 4.00,3.85 - 3.98,33%,38%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-mathematics for teaching,18,6,3,3.65 - 3.82,masked,33%,50%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-mathematics of computation,147,73,36,3.81 - 3.98,3.81 - 3.97,50%,49%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-mathematics/applied science,26,9,7,3.82 - 3.95,3.62 - 3.90,35%,78%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-mathematics/economics,135,51,37,3.87 - 4.00,3.88 - 4.00,38%,73%,UCLA
+Physical Sciences/Math,College Of Letters & science,Pre-statistics and data science,198,69,27,3.85 - 4.00,3.85 - 4.00,35%,39%,UCLA
+Public Admin,College Of Letters & science,Pre-public affairs,87,33,23,3.62 - 3.93,3.56 - 3.94,38%,70%,UCLA
+Social Sciences,College Of Letters & science,African american studies,41,19,11,3.43 - 3.80,3.43 - 3.77,46%,58%,UCLA
+Social Sciences,College Of Letters & science,American indian studies,16,10,8,3.35 - 3.63,3.32 - 3.69,63%,80%,UCLA
+Social Sciences,College Of Letters & science,Anthropology,337,195,103,3.47 - 3.91,3.48 - 3.92,58%,53%,UCLA
+Social Sciences,College Of Letters & science,Asian american studies,42,15,9,3.65 - 4.00,3.46 - 4.00,36%,60%,UCLA
+Social Sciences,College Of Letters & science,Asian humanities,42,15,6,3.76 - 3.98,3.81 - 3.93,36%,40%,UCLA
+Social Sciences,College Of Letters & science,Chicana & chicano studies,25,10,3,3.40 - 3.83,masked,40%,30%,UCLA
+Social Sciences,College Of Letters & science,Gender studies,124,64,44,3.58 - 3.91,3.58 - 3.90,52%,69%,UCLA
+Social Sciences,College Of Letters & science,Geography,68,36,17,3.59 - 3.95,3.58 - 3.93,53%,47%,UCLA
+Social Sciences,College Of Letters & science,Nordic studies,9,3,3,masked,masked,33%,100%,UCLA
+Social Sciences,College Of Letters & science,Pre international development studies,71,23,15,3.75 - 3.98,3.71 - 3.90,32%,65%,UCLA
+Social Sciences,College Of Letters & science,Pre-asian studies,48,18,4,3.82 - 4.00,masked,38%,22%,UCLA
+Social Sciences,College Of Letters & science,Pre-economics,"1,195",219,135,3.85 - 4.00,3.85 - 4.00,18%,62%,UCLA
+Social Sciences,College Of Letters & science,Pre-latin american studies,9,5,4,3.61 - 3.80,masked,56%,80%,UCLA
+Social Sciences,College Of Letters & science,Pre-political science,"1,135",534,340,3.71 - 3.97,3.71 - 3.94,47%,64%,UCLA
+Social Sciences,College Of Letters & science,Pre-psychobiology,196,41,29,3.66 - 3.94,3.65 - 3.94,21%,71%,UCLA
+Social Sciences,College Of Letters & science,Pre-psychology,"2,186",533,407,3.77 - 4.00,3.77 - 4.00,24%,76%,UCLA
+Social Sciences,College Of Letters & science,Pre-sociology,"1,135",525,328,3.74 - 4.00,3.74 - 4.00,46%,62%,UCLA
+Social Sciences,College Of Letters & science,Spanish and community and culture,19,13,6,3.57 - 3.83,3.56 - 3.85,68%,46%,UCLA
+Arts & Humanities,School Of Humanities,Art history,108,75,13,3.44 - 3.84,3.28 - 3.67,69%,17%,UCI
+Arts & Humanities,School Of Humanities,English,489,307,63,3.37 - 3.88,3.20 - 3.73,63%,21%,UCI
+Arts & Humanities,School Of Humanities,Film and media studies,611,404,96,3.47 - 3.89,3.36 - 3.76,66%,24%,UCI
+Arts & Humanities,School Of Humanities,History,321,212,40,3.44 - 3.90,3.10 - 3.82,66%,19%,UCI
+Arts & Humanities,School Of Humanities,Japanese language & literature,48,33,10,3.32 - 3.78,3.30 - 3.55,69%,30%,UCI
+Arts & Humanities,School Of Humanities,Korean literature and culture,29,18,8,3.45 - 3.87,3.30 - 3.77,62%,44%,UCI
+Arts & Humanities,School Of Humanities,Philosophy,219,131,16,3.34 - 3.90,3.08 - 3.32,60%,12%,UCI
+Arts & Humanities,School Of Humanities,Spanish,59,32,7,3.15 - 3.61,2.78 - 3.67,54%,22%,UCI
+Arts & Humanities,School Of The arts,Art,256,69,24,3.49 - 3.93,3.35 - 3.92,27%,35%,UCI
+Arts & Humanities,School Of The arts,Drama,202,86,33,3.63 - 3.92,3.61 - 3.92,43%,38%,UCI
+Business,School Of Administration,Business administration,"2,527",632,242,3.80 - 4.00,3.76 - 3.94,25%,38%,UCI
+Business,School Of Social sciences,Business economics,882,420,115,3.75 - 3.97,3.71 - 3.90,48%,27%,UCI
+Computer Science,Information & Computer Sci,Computer science,"2,137",433,186,3.85 - 4.00,3.77 - 4.00,20%,43%,UCI
+Computer Science,Information & Computer Sci,Game design and interactive media,206,34,17,3.61 - 3.92,3.48 - 3.88,17%,50%,UCI
+Computer Science,Information & Computer Sci,Informatics,94,36,23,3.54 - 3.94,3.49 - 3.97,38%,64%,UCI
+Education,School Of Biological sciences,Biology/education,60,12,3,3.25 - 3.53,masked,20%,25%,UCI
+Education,School Of Education,Education sciences,286,162,59,3.41 - 3.84,3.41 - 3.78,57%,36%,UCI
+Engineering,Information & Computer Sci,Software engineering,211,107,63,3.64 - 3.85,3.53 - 3.79,51%,59%,UCI
+Engineering,Interdisciplinary Studies,Computer science & engineering,344,72,26,3.86 - 4.00,3.82 - 4.00,21%,36%,UCI
+Engineering,School Of Engineering,Aerospace engineering,196,67,29,3.55 - 3.90,3.52 - 3.76,34%,43%,UCI
+Engineering,School Of Engineering,Biomedical engineering,139,63,21,3.51 - 3.84,3.39 - 3.68,45%,33%,UCI
+Engineering,School Of Engineering,Chemical engineering,107,50,19,3.48 - 3.86,3.45 - 3.79,47%,38%,UCI
+Engineering,School Of Engineering,Computer engineering,308,118,40,3.62 - 3.96,3.56 - 3.81,38%,34%,UCI
+Engineering,School Of Engineering,Engineering - civil,219,83,34,3.47 - 3.75,3.39 - 3.68,38%,41%,UCI
+Engineering,School Of Engineering,Engineering - electrical,300,122,31,3.51 - 3.92,3.46 - 3.69,41%,25%,UCI
+Engineering,School Of Engineering,Engineering - mechanical,594,214,77,3.60 - 3.91,3.58 - 3.79,36%,36%,UCI
+Engineering,School Of Engineering,Environmental engineering,42,14,3,3.47 - 3.93,masked,33%,21%,UCI
+Life Sciences,School Of Biological sciences,Biological sciences,"1,830",809,223,3.45 - 3.87,3.34 - 3.78,44%,28%,UCI
+Life Sciences,School Of Physical sciences,Environmental science and policy,129,74,17,3.47 - 3.85,3.44 - 3.83,57%,23%,UCI
+Nursing,School Of Nursing,Nursing science,343,7,3,3.94 - 3.95,masked,2%,43%,UCI
+Other/Interdisciplinary,Information & Computer Sci,Data science,294,122,22,3.72 - 3.95,3.63 - 3.83,41%,18%,UCI
+Other/Interdisciplinary,School Of Humanities,Global cultures,39,25,10,3.17 - 3.74,2.75 - 3.48,64%,40%,UCI
+Other/Interdisciplinary,School Of Humanities,Literary journalism,104,50,16,3.58 - 4.00,3.45 - 3.87,48%,32%,UCI
+Other/Interdisciplinary,School Of Social sciences,International studies,248,152,44,3.42 - 3.85,3.17 - 3.72,61%,29%,UCI
+Other/Interdisciplinary,Social Ecology,Social ecology,89,60,25,3.18 - 3.74,3.13 - 3.72,67%,42%,UCI
+Pharmacy,School Of Pharmacy & pharm sciences,Pharmaceutical science,79,15,10,3.74 - 3.90,3.73 - 3.88,19%,67%,UCI
+Physical Sciences/Math,School Of Physical sciences,Applied physics,26,14,4,3.26 - 3.80,masked,54%,29%,UCI
+Physical Sciences/Math,School Of Physical sciences,Chemistry,320,188,58,3.52 - 3.91,3.53 - 3.90,59%,31%,UCI
+Physical Sciences/Math,School Of Physical sciences,Earth system science,57,23,5,3.39 - 3.71,3.51 - 3.53,40%,22%,UCI
+Physical Sciences/Math,School Of Physical sciences,Mathematics,540,383,68,3.59 - 3.94,3.44 - 3.78,71%,18%,UCI
+Physical Sciences/Math,School Of Physical sciences,Physics,140,71,11,3.55 - 3.90,3.18 - 3.66,51%,15%,UCI
+Public Health,School Of Public health,Public health policy,179,139,57,3.41 - 3.80,3.33 - 3.75,78%,41%,UCI
+Public Health,School Of Public health,Public health sciences,350,167,67,3.51 - 3.84,3.44 - 3.82,48%,40%,UCI
+Social Sciences,School Of Humanities,Chinese studies,37,17,4,3.61 - 4.00,masked,46%,24%,UCI
+Social Sciences,School Of Humanities,East asian cultures,67,23,6,3.59 - 3.95,3.25 - 3.81,34%,26%,UCI
+Social Sciences,School Of Social sciences,Anthropology,205,132,26,3.24 - 3.88,3.09 - 3.55,64%,20%,UCI
+Social Sciences,School Of Social sciences,Chicano/latino studies,14,8,3,3.10 - 3.74,masked,57%,38%,UCI
+Social Sciences,School Of Social sciences,Economics,724,319,40,3.74 - 3.96,3.69 - 3.93,44%,13%,UCI
+Social Sciences,School Of Social sciences,Language science,79,58,9,3.52 - 3.95,3.47 - 3.92,73%,16%,UCI
+Social Sciences,School Of Social sciences,Political science,790,492,99,3.44 - 3.91,3.22 - 3.65,62%,20%,UCI
+Social Sciences,School Of Social sciences,Psychology,923,60,19,3.65 - 3.94,3.63 - 3.89,7%,32%,UCI
+Social Sciences,School Of Social sciences,Social policy and public service,81,53,18,3.30 - 3.89,3.21 - 3.54,65%,34%,UCI
+Social Sciences,School Of Social sciences,Sociology,902,591,158,3.37 - 3.89,3.12 - 3.68,66%,27%,UCI
+Social Sciences,Social Ecology,"Criminolgy, law & society",480,258,132,3.43 - 3.87,3.35 - 3.86,54%,51%,UCI
+Social Sciences,Social Ecology,Psychological science,"1,136",846,379,3.52 - 3.91,3.44 - 3.85,74%,45%,UCI
+Social Sciences,Social Ecology,Urban studies,65,49,14,3.37 - 3.89,3.26 - 3.64,75%,29%,UCI
+Undeclared,Unaffiliated,Undeclared,65,22,6,3.33 - 3.96,3.36 - 3.71,34%,27%,UCI
+Architecture,College Of Agric & environ sciences,Pre-landscape architecture,91,64,19,3.30 - 3.84,3.20 - 3.68,70%,30%,UCD
+Arts & Humanities,College Of Letters & science,Art - studio,133,104,25,3.40 - 3.91,3.38 - 3.92,78%,24%,UCD
+Arts & Humanities,College Of Letters & science,Art history,53,45,5,3.42 - 3.80,3.56 - 3.75,85%,11%,UCD
+Arts & Humanities,College Of Letters & science,Cinema and digital media,174,119,15,3.40 - 3.79,3.26 - 3.62,68%,13%,UCD
+Arts & Humanities,College Of Letters & science,Design,228,168,89,3.47 - 3.92,3.47 - 3.89,74%,53%,UCD
+Arts & Humanities,College Of Letters & science,English,310,250,43,3.37 - 3.89,3.39 - 3.86,81%,17%,UCD
+Arts & Humanities,College Of Letters & science,History,205,157,33,3.44 - 3.89,3.22 - 3.93,77%,21%,UCD
+Arts & Humanities,College Of Letters & science,Japanese,27,23,3,3.15 - 3.81,masked,85%,13%,UCD
+Arts & Humanities,College Of Letters & science,Linguistics,66,54,9,3.51 - 3.99,3.38 - 3.71,82%,17%,UCD
+Arts & Humanities,College Of Letters & science,Music,40,23,4,3.47 - 3.91,masked,58%,17%,UCD
+Arts & Humanities,College Of Letters & science,Philosophy,162,120,14,3.30 - 3.87,3.40 - 3.89,74%,12%,UCD
+Arts & Humanities,College Of Letters & science,Theatre and dance,50,37,6,3.32 - 3.85,3.34 - 3.46,74%,16%,UCD
+Business,College Of Agric & environ sciences,Managerial economics,610,426,103,3.47 - 3.91,3.35 - 3.78,70%,24%,UCD
+Computer Science,College Of Letters & science,Computer science,"1,098",496,155,3.72 - 3.96,3.63 - 3.87,45%,31%,UCD
+Education,College Of Agric & environ sciences,Agricultural and environmental education,53,33,13,3.15 - 3.81,3.13 - 3.62,62%,39%,UCD
+Engineering,College Of Agric & environ sciences,Agricultural and environmental technology,24,11,3,3.53 - 3.83,masked,46%,27%,UCD
+Engineering,College Of Engineering,Aerospace science and engineering,123,31,15,3.55 - 3.85,3.55 - 4.00,25%,48%,UCD
+Engineering,College Of Engineering,Biomedical engineering,88,23,4,3.54 - 3.93,masked,26%,17%,UCD
+Engineering,College Of Engineering,Chemical engineering,70,29,6,3.43 - 3.86,3.58 - 3.75,41%,21%,UCD
+Engineering,College Of Engineering,Civil engineering,185,64,23,3.55 - 3.81,3.55 - 3.74,35%,36%,UCD
+Engineering,College Of Engineering,Computer engineering,153,56,12,3.60 - 3.95,3.74 - 3.92,37%,21%,UCD
+Engineering,College Of Engineering,Computer science & engineering,482,76,26,3.66 - 3.91,3.71 - 3.84,16%,34%,UCD
+Engineering,College Of Engineering,Engineering,191,94,19,3.52 - 3.92,3.40 - 3.80,49%,20%,UCD
+Engineering,College Of Engineering,Environmental engineering,26,13,5,3.48 - 3.93,3.62 - 3.73,50%,38%,UCD
+Engineering,College Of Engineering,Materials science,23,10,4,3.44 - 3.85,masked,43%,40%,UCD
+Engineering,College Of Engineering,Mechanical engineering,403,131,40,3.55 - 3.89,3.52 - 3.82,33%,31%,UCD
+Life Sciences,College Of Agric & environ sciences,Animal biology,86,61,38,3.19 - 3.83,3.13 - 3.76,71%,62%,UCD
+Life Sciences,College Of Agric & environ sciences,Animal sciences,222,157,111,3.19 - 3.68,3.16 - 3.65,71%,71%,UCD
+Life Sciences,College Of Agric & environ sciences,Biotechnology,46,30,20,3.54 - 3.88,3.52 - 3.86,65%,67%,UCD
+Life Sciences,College Of Agric & environ sciences,Entomology,9,7,5,3.14 - 3.59,3.33 - 3.65,78%,71%,UCD
+Life Sciences,College Of Agric & environ sciences,Environ policy analysis & planning,61,43,13,3.44 - 3.82,3.38 - 3.87,70%,30%,UCD
+Life Sciences,College Of Agric & environ sciences,Environmental science and management,168,128,49,3.22 - 3.77,3.19 - 3.73,76%,38%,UCD
+Life Sciences,College Of Agric & environ sciences,Environmental toxicology,17,7,4,3.23 - 3.35,masked,41%,57%,UCD
+Life Sciences,College Of Agric & environ sciences,Food science,30,20,11,3.28 - 3.89,3.16 - 3.81,67%,55%,UCD
+Life Sciences,College Of Agric & environ sciences,Global disease biology,79,67,39,3.13 - 3.57,3.07 - 3.52,85%,58%,UCD
+Life Sciences,College Of Agric & environ sciences,Plant sciences,52,37,25,3.31 - 3.81,3.31 - 3.80,71%,68%,UCD
+Life Sciences,College Of Agric & environ sciences,Sustainable environmental design,43,33,14,3.50 - 3.90,3.67 - 3.89,77%,42%,UCD
+Life Sciences,College Of Agric & environ sciences,Viticulture & enology,14,9,8,3.35 - 3.56,3.34 - 3.52,64%,89%,UCD
+Life Sciences,College Of Agric & environ sciences,"Wildlife, fish & conservation biology",34,24,13,3.11 - 3.61,3.13 - 3.59,71%,54%,UCD
+Life Sciences,College Of Biological sciences,Biochemistry- molecular biology,303,182,56,3.51 - 3.91,3.37 - 3.91,60%,31%,UCD
+Life Sciences,College Of Biological sciences,Biological sciences,827,483,166,3.41 - 3.81,3.40 - 3.78,58%,34%,UCD
+Life Sciences,College Of Biological sciences,Cell biology,56,33,4,3.47 - 3.83,masked,59%,12%,UCD
+Life Sciences,College Of Biological sciences,"Evolution, ecology & biodiversity",36,21,10,3.34 - 3.65,3.19 - 3.65,58%,48%,UCD
+Life Sciences,College Of Biological sciences,Genetics and genomics,39,23,7,3.35 - 3.86,2.96 - 3.57,59%,30%,UCD
+Life Sciences,College Of Biological sciences,Molecular & medical microbiology,141,83,24,3.48 - 3.85,3.28 - 3.69,59%,29%,UCD
+Life Sciences,College Of Biological sciences,"Neurobiology, physiology, & behavior",215,120,34,3.45 - 3.87,3.41 - 3.78,56%,28%,UCD
+Life Sciences,College Of Biological sciences,Plant biology,15,7,3,3.31 - 4.00,masked,47%,43%,UCD
+Other Health Science,College Of Letters & science,Pharmaceutical chemistry,42,20,6,3.51 - 3.85,3.18 - 3.56,48%,30%,UCD
+Other/Interdisciplinary,College Of Agric & environ sciences,Clinical nutrition,72,52,29,3.29 - 3.83,3.29 - 3.69,72%,56%,UCD
+Other/Interdisciplinary,College Of Agric & environ sciences,International agricultural development,12,10,6,3.51 - 3.85,3.39 - 3.75,83%,60%,UCD
+Other/Interdisciplinary,College Of Agric & environ sciences,Marine and coastal science,17,10,3,3.20 - 3.88,masked,59%,30%,UCD
+Other/Interdisciplinary,College Of Agric & environ sciences,Nutritional science,68,47,21,3.29 - 3.78,3.07 - 3.78,69%,45%,UCD
+Other/Interdisciplinary,College Of Agric & environ sciences,Sustainable agriculture and food systems,28,17,9,3.44 - 3.86,3.39 - 3.86,61%,53%,UCD
+Other/Interdisciplinary,College Of Biological sciences,Marine and coastal science,19,8,5,3.56 - 3.93,3.48 - 3.75,42%,63%,UCD
+Other/Interdisciplinary,College Of Letters & science,Cognitive science,237,196,48,3.39 - 3.85,3.27 - 3.79,83%,24%,UCD
+Other/Interdisciplinary,College Of Letters & science,Communication,604,465,82,3.37 - 3.90,3.31 - 3.81,77%,18%,UCD
+Other/Interdisciplinary,College Of Letters & science,Data science,246,151,21,3.62 - 3.95,3.41 - 3.78,61%,14%,UCD
+Other/Interdisciplinary,College Of Letters & science,Science & technology studies,14,12,5,3.28 - 3.64,3.17 - 3.53,86%,42%,UCD
+Physical Sciences/Math,College Of Letters & science,Applied mathematics,148,103,10,3.47 - 3.90,3.42 - 3.86,70%,10%,UCD
+Physical Sciences/Math,College Of Letters & science,Applied physics,33,21,6,3.34 - 3.73,3.15 - 3.90,64%,29%,UCD
+Physical Sciences/Math,College Of Letters & science,Chemistry,138,113,33,3.27 - 3.84,3.09 - 3.54,82%,29%,UCD
+Physical Sciences/Math,College Of Letters & science,Geology,29,23,6,3.40 - 3.83,3.42 - 3.78,79%,26%,UCD
+Physical Sciences/Math,College Of Letters & science,Mathematics,142,100,15,3.51 - 3.88,3.55 - 3.79,70%,15%,UCD
+Physical Sciences/Math,College Of Letters & science,Physics,61,37,6,3.41 - 3.90,3.09 - 3.68,61%,16%,UCD
+Physical Sciences/Math,College Of Letters & science,Statistics,162,143,38,3.45 - 3.91,3.35 - 3.83,88%,27%,UCD
+Public Admin,College Of Agric & environ sciences,Community & regional development,39,29,9,3.35 - 3.92,3.43 - 3.72,74%,31%,UCD
+Social Sciences,College Of Agric & environ sciences,Human development,184,135,71,3.29 - 3.83,3.19 - 3.81,73%,53%,UCD
+Social Sciences,College Of Letters & science,Anthropology,176,145,28,3.28 - 3.87,3.24 - 3.62,82%,19%,UCD
+Social Sciences,College Of Letters & science,Economics,"1,248",934,152,3.51 - 3.91,3.25 - 3.75,75%,16%,UCD
+Social Sciences,College Of Letters & science,"Gender, sexuality, and women's studies",35,23,4,3.20 - 3.80,masked,66%,17%,UCD
+Social Sciences,College Of Letters & science,International relations,147,117,18,3.36 - 3.83,3.06 - 3.63,80%,15%,UCD
+Social Sciences,College Of Letters & science,Political science,481,402,81,3.38 - 3.91,3.21 - 3.68,84%,20%,UCD
+Social Sciences,College Of Letters & science,Political science - public service,129,105,20,3.35 - 3.88,3.25 - 3.62,81%,19%,UCD
+Social Sciences,College Of Letters & science,Psychology,"1,503","1,049",348,3.50 - 3.90,3.39 - 3.85,70%,33%,UCD
+Social Sciences,College Of Letters & science,Sociology,539,433,77,3.36 - 3.84,3.28 - 3.76,80%,18%,UCD
+Social Sciences,College Of Letters & science,Sociology/organizational studies,106,78,10,3.28 - 3.79,3.09 - 3.48,74%,13%,UCD
+Undeclared,College Of Agric & environ sciences,Undeclared/exploratory agricultural science,185,56,23,3.24 - 3.79,3.05 - 3.66,30%,41%,UCD
+Architecture,College Of Environmental design,Architecture,230,51,45,3.64 - 3.93,3.68 - 3.93,22%,88%,UCB
+Arts & Humanities,College Of Letters & science,Art,249,53,24,3.75 - 3.96,3.71 - 3.97,21%,45%,UCB
+Arts & Humanities,College Of Letters & science,Chinese language & literature,43,18,7,3.80 - 4.00,3.81 - 3.99,42%,39%,UCB
+Arts & Humanities,College Of Letters & science,Comparative literature,37,29,15,3.79 - 4.00,3.69 - 3.99,78%,52%,UCB
+Arts & Humanities,College Of Letters & science,Dance & performance studies,23,12,5,3.54 - 4.00,3.52 - 3.62,52%,42%,UCB
+Arts & Humanities,College Of Letters & science,"East asian religion, thought, and culture",78,27,17,3.71 - 4.00,3.71 - 4.00,35%,63%,UCB
+Arts & Humanities,College Of Letters & science,English,485,329,167,3.46 - 3.93,3.40 - 3.94,68%,51%,UCB
+Arts & Humanities,College Of Letters & science,Film,407,235,125,3.52 - 3.88,3.47 - 3.86,58%,53%,UCB
+Arts & Humanities,College Of Letters & science,French,14,11,6,3.65 - 3.80,3.11 - 3.71,79%,55%,UCB
+Arts & Humanities,College Of Letters & science,History,282,137,49,3.69 - 3.96,3.63 - 3.94,49%,36%,UCB
+Arts & Humanities,College Of Letters & science,History of art,108,85,39,3.61 - 3.89,3.57 - 3.87,79%,46%,UCB
+Arts & Humanities,College Of Letters & science,Japanese language & literature,34,26,12,3.67 - 4.00,3.58 - 4.00,76%,46%,UCB
+Arts & Humanities,College Of Letters & science,Linguistics,107,61,22,3.53 - 3.95,3.46 - 3.94,57%,36%,UCB
+Arts & Humanities,College Of Letters & science,Middle eastern languages & literatures,11,9,7,3.33 - 3.92,3.53 - 3.96,82%,78%,UCB
+Arts & Humanities,College Of Letters & science,Music,74,31,14,3.51 - 3.85,3.72 - 3.85,42%,45%,UCB
+Arts & Humanities,College Of Letters & science,Philosophy,283,182,87,3.49 - 3.91,3.40 - 3.89,64%,48%,UCB
+Arts & Humanities,College Of Letters & science,Rhetoric,91,64,41,3.70 - 4.00,3.65 - 4.00,70%,64%,UCB
+Arts & Humanities,College Of Letters & science,South & southeast asian studies,25,17,6,3.55 - 3.88,3.59 - 3.86,68%,35%,UCB
+Arts & Humanities,College Of Letters & science,Spanish / portuguese,50,28,14,3.52 - 3.87,3.47 - 3.84,56%,50%,UCB
+Arts & Humanities,College Of Letters & science,Theater and performance studies,100,55,19,3.49 - 3.88,3.53 - 3.83,55%,35%,UCB
+Business,School Of Business administration,Business administration,"2,390",118,103,3.87 - 4.00,3.86 - 4.00,5%,87%,UCB
+Computer Science,College Of Letters & science,Computer science,"1,320",64,52,3.85 - 4.00,3.73 - 4.00,5%,81%,UCB
+Computer Science,College Of Letters & science,Data science,414,68,50,3.87 - 4.00,3.86 - 4.00,16%,74%,UCB
+Engineering,College Of Chemistry,Chemical engineering,115,41,27,3.54 - 3.93,3.55 - 3.94,36%,66%,UCB
+Engineering,College Of Engineering,Bioengineering,129,23,14,3.69 - 3.92,3.63 - 3.93,18%,61%,UCB
+Engineering,College Of Engineering,Civil engineering,178,23,13,3.80 - 4.00,3.77 - 4.00,13%,57%,UCB
+Engineering,College Of Engineering,Electrical engineering - computer science,"1,326",147,120,3.92 - 4.00,3.91 - 4.00,11%,82%,UCB
+Engineering,College Of Engineering,Mechanical engineering,574,95,65,3.81 - 4.00,3.80 - 4.00,17%,68%,UCB
+Engineering,College Of Engineering,Nuclear engineering,15,5,5,3.69 - 4.00,3.69 - 4.00,33%,100%,UCB
+Engineering,College Of Letters & science,Operations research & management science,13,3,3,masked,masked,23%,100%,UCB
+Life Sciences,College Of Letters & science,Environmental earth science,34,20,11,3.40 - 3.86,3.57 - 3.93,59%,55%,UCB
+Life Sciences,College Of Letters & science,Geography,46,22,9,3.30 - 3.81,3.00 - 3.51,48%,41%,UCB
+Life Sciences,College Of Letters & science,Integrative biology,215,77,34,3.56 - 3.91,3.49 - 3.91,36%,44%,UCB
+Life Sciences,College Of Letters & science,Molecular & cell biology,611,299,112,3.58 - 3.94,3.50 - 3.85,49%,37%,UCB
+Life Sciences,College Of Natural resources,Conservation & resource studies,55,31,23,3.55 - 3.90,3.55 - 3.88,56%,74%,UCB
+Life Sciences,College Of Natural resources,Ecosystem management and forestry - forestry,21,9,8,3.12 - 3.53,3.10 - 3.43,43%,89%,UCB
+Life Sciences,College Of Natural resources,Ecosystem management and forestry - natural resource management,9,4,3,masked,masked,44%,75%,UCB
+Life Sciences,College Of Natural resources,Environmental economics & policy,112,49,37,3.57 - 3.98,3.52 - 3.94,44%,76%,UCB
+Life Sciences,College Of Natural resources,Environmental science,152,31,10,3.45 - 3.83,3.37 - 3.81,20%,32%,UCB
+Life Sciences,College Of Natural resources,Genetics & plant biology,64,12,4,3.79 - 3.98,masked,19%,33%,UCB
+Life Sciences,College Of Natural resources,Microbial biology,130,36,14,3.65 - 3.94,3.66 - 3.93,28%,39%,UCB
+Life Sciences,College Of Natural resources,Molecular environmental biology,91,33,12,3.52 - 3.89,3.56 - 3.89,36%,36%,UCB
+Life Sciences,College Of Natural resources,Society and environment,64,21,16,3.73 - 3.95,3.82 - 3.98,33%,76%,UCB
+Other/Interdisciplinary,College Of Letters & science,Ancient greek and roman studies,22,14,6,3.49 - 3.89,3.46 - 3.88,64%,43%,UCB
+Other/Interdisciplinary,College Of Letters & science,Cognitive science,243,68,37,3.60 - 3.95,3.68 - 3.95,28%,54%,UCB
+Other/Interdisciplinary,College Of Letters & science,Global studies,140,55,33,3.59 - 3.95,3.58 - 4.00,39%,60%,UCB
+Other/Interdisciplinary,College Of Letters & science,Interdisciplinary studies,139,97,60,3.61 - 3.92,3.58 - 3.91,70%,62%,UCB
+Other/Interdisciplinary,College Of Letters & science,Legal studies,165,50,27,3.73 - 3.93,3.74 - 3.95,30%,54%,UCB
+Other/Interdisciplinary,College Of Letters & science,Media studies,470,168,88,3.72 - 4.00,3.61 - 3.95,36%,52%,UCB
+Physical Sciences/Math,College Of Chemistry,Chemical biology,206,47,18,3.75 - 3.94,3.60 - 3.92,23%,38%,UCB
+Physical Sciences/Math,College Of Chemistry,Chemistry,196,69,33,3.69 - 3.98,3.71 - 3.97,35%,48%,UCB
+Physical Sciences/Math,College Of Letters & science,Applied mathematics,329,223,154,3.66 - 3.97,3.62 - 3.94,68%,69%,UCB
+Physical Sciences/Math,College Of Letters & science,Astrophysics,56,28,19,3.61 - 3.97,3.68 - 3.93,50%,68%,UCB
+Physical Sciences/Math,College Of Letters & science,Chemistry,21,10,9,3.59 - 3.94,3.59 - 3.89,48%,90%,UCB
+Physical Sciences/Math,College Of Letters & science,Geology,18,6,3,3.19 - 3.62,masked,33%,50%,UCB
+Physical Sciences/Math,College Of Letters & science,Mathematics,238,148,88,3.56 - 3.90,3.46 - 3.88,62%,59%,UCB
+Physical Sciences/Math,College Of Letters & science,Physics,133,77,59,3.41 - 3.92,3.33 - 3.90,58%,77%,UCB
+Physical Sciences/Math,College Of Letters & science,Statistics,182,85,49,3.77 - 4.00,3.78 - 4.00,47%,58%,UCB
+Public Admin,College Of Letters & science,Social welfare,90,32,22,3.35 - 3.81,3.32 - 3.75,36%,69%,UCB
+Public Health,College Of Letters & science,Public health,249,46,23,3.62 - 3.99,3.59 - 3.81,18%,50%,UCB
+Social Sciences,College Of Environmental design,Urban studies,43,11,8,3.75 - 3.92,3.73 - 3.92,26%,73%,UCB
+Social Sciences,College Of Letters & science,African-american studies,23,10,4,3.34 - 3.75,masked,43%,40%,UCB
+Social Sciences,College Of Letters & science,American studies,33,22,20,3.34 - 3.95,3.30 - 3.97,67%,91%,UCB
+Social Sciences,College Of Letters & science,Anthropology,252,116,63,3.54 - 3.94,3.45 - 3.92,46%,54%,UCB
+Social Sciences,College Of Letters & science,Asian american and asian diaspora studies,22,9,5,3.86 - 4.00,3.86 - 3.95,41%,56%,UCB
+Social Sciences,College Of Letters & science,Chicano studies,18,8,4,3.40 - 3.88,masked,44%,50%,UCB
+Social Sciences,College Of Letters & science,Economics,"1,263",182,123,3.80 - 4.00,3.77 - 3.99,14%,68%,UCB
+Social Sciences,College Of Letters & science,Ethnic studies,20,11,9,3.36 - 3.76,3.26 - 3.72,55%,82%,UCB
+Social Sciences,College Of Letters & science,Gender & women's studies,56,29,8,3.64 - 3.91,3.50 - 3.88,52%,28%,UCB
+Social Sciences,College Of Letters & science,Political economy,91,41,27,3.67 - 4.00,3.62 - 3.91,45%,66%,UCB
+Social Sciences,College Of Letters & science,Political science,935,293,130,3.66 - 4.00,3.53 - 4.00,31%,44%,UCB
+Social Sciences,College Of Letters & science,Psychology,"1,694",122,67,3.71 - 4.00,3.67 - 3.98,7%,55%,UCB
+Social Sciences,College Of Letters & science,Sociology,829,241,82,3.74 - 4.00,3.39 - 3.97,29%,34%,UCB
+Undeclared,College Of Letters & science,Undeclared,8,7,6,3.57 - 3.87,3.54 - 3.74,88%,86%,UCB

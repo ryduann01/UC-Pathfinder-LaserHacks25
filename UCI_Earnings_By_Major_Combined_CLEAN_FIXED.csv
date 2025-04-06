@@ -1,0 +1,402 @@
+label,2yr,5yr,10yr,major
+Unnamed: 0,2   ,5   ,10  ,Major
+Percentile (75) of Annual Earnings,"$49,913","$71,622","$102,268",ArtHistory
+Median Annual Earnings,"$38,804","$51,245","$77,691",ArtHistory
+Percentile (25) of Annual Earnings,"$22,729","$30,408","$58,938",ArtHistory
+EarnersCount,290,275,236,ArtHistory
+Count of Number of Records,290,276,236,ArtHistory
+Percentile (75) of Annual Earnings,"$54,166","$73,285","$117,340",AsianAmericanStudies
+Median Annual Earnings,"$43,238","$58,123","$74,620",AsianAmericanStudies
+Percentile (25) of Annual Earnings,"$31,030","$38,428","$56,260",AsianAmericanStudies
+EarnersCount,129,123,96,AsianAmericanStudies
+Count of Number of Records,129,123,96,AsianAmericanStudies
+Percentile (75) of Annual Earnings,"$93,067","$116,100","$161,152",AerospaceEngineering
+Median Annual Earnings,"$74,010","$101,445","$127,832",AerospaceEngineering
+Percentile (25) of Annual Earnings,"$51,340","$79,424","$91,790",AerospaceEngineering
+EarnersCount,341,219,128,AerospaceEngineering
+Count of Number of Records,341,219,128,AerospaceEngineering
+Percentile (75) of Annual Earnings,"$56,772","$75,447","$109,811",ArtStudio
+Median Annual Earnings,"$40,487","$55,981","$76,722",ArtStudio
+Percentile (25) of Annual Earnings,"$24,139","$37,030","$52,079",ArtStudio
+EarnersCount,805,779,786,ArtStudio
+Count of Number of Records,805,779,786,ArtStudio
+Percentile (75) of Annual Earnings,"$63,036","$95,957","$178,885",Biochemistry- Molecular Biology
+Median Annual Earnings,"$47,406","$75,733","$129,269",Biochemistry- Molecular Biology
+Percentile (25) of Annual Earnings,"$31,332","$44,549","$79,790",Biochemistry- Molecular Biology
+EarnersCount,130,72,122,Biochemistry- Molecular Biology
+Count of Number of Records,130,72,122,Biochemistry- Molecular Biology
+Percentile (75) of Annual Earnings,"$45,666",,,African-American Studies
+Median Annual Earnings,"$34,809",,,African-American Studies
+Percentile (25) of Annual Earnings,"$22,642",,,African-American Studies
+EarnersCount,39,,,African-American Studies
+Count of Number of Records,39,,,African-American Studies
+Percentile (75) of Annual Earnings,"$51,253","$71,669",,Art
+Median Annual Earnings,"$34,625","$49,633",,Art
+Percentile (25) of Annual Earnings,"$19,949","$30,457",,Art
+EarnersCount,287,143,,Art
+Count of Number of Records,287,143,,Art
+Percentile (75) of Annual Earnings,"$64,513","$102,057","$146,300",AppliedEcology
+Median Annual Earnings,"$52,966","$76,582","$106,105",AppliedEcology
+Percentile (25) of Annual Earnings,"$31,443","$49,276","$75,370",AppliedEcology
+EarnersCount,128,134,171,AppliedEcology
+Count of Number of Records,128,134,171,AppliedEcology
+Percentile (75) of Annual Earnings,"$67,358",,,AppliedPhysics
+Median Annual Earnings,"$59,985",,,AppliedPhysics
+Percentile (25) of Annual Earnings,"$39,558",,,AppliedPhysics
+EarnersCount,42,,,AppliedPhysics
+Count of Number of Records,42,,,AppliedPhysics
+Percentile (75) of Annual Earnings,"$54,904","$77,851","$119,495",Anthopology
+Median Annual Earnings,"$39,657","$57,025","$82,392",Anthopology
+Percentile (25) of Annual Earnings,"$24,312","$37,823","$58,402",Anthopology
+EarnersCount,912,770,580,Anthopology
+Count of Number of Records,912,770,580,Anthopology
+Percentile (75) of Annual Earnings,"$49,775","$72,117","$97,883",ChicanoLatinoStudies
+Median Annual Earnings,"$38,446","$56,567","$79,205",ChicanoLatinoStudies
+Percentile (25) of Annual Earnings,"$27,811","$41,511","$63,130",ChicanoLatinoStudies
+EarnersCount,190,179,138,ChicanoLatinoStudies
+Count of Number of Records,190,179,138,ChicanoLatinoStudies
+Percentile (75) of Annual Earnings,"$87,165","$116,293","$151,838",ChemicalEngineering
+Median Annual Earnings,"$72,330","$99,443","$127,544",ChemicalEngineering
+Percentile (25) of Annual Earnings,"$51,747","$77,064","$99,509",ChemicalEngineering
+EarnersCount,564,431,266,ChemicalEngineering
+Count of Number of Records,564,431,266,ChemicalEngineering
+Percentile (75) of Annual Earnings,"$65,022","$90,864","$156,308",Chemistry
+Median Annual Earnings,"$50,842","$72,313","$109,554",Chemistry
+Percentile (25) of Annual Earnings,"$35,906","$55,691","$79,032",Chemistry
+EarnersCount,"1,014",815,842,Chemistry
+Count of Number of Records,"1,014",815,842,Chemistry
+Percentile (75) of Annual Earnings,"$72,340","$105,882","$163,303",BusinessEconomics
+Median Annual Earnings,"$54,129","$79,668","$115,593",BusinessEconomics
+Percentile (25) of Annual Earnings,"$39,821","$60,039","$82,879",BusinessEconomics
+EarnersCount,"3,833","3,013","1,878",BusinessEconomics
+Count of Number of Records,"3,833","3,013","1,878",BusinessEconomics
+Percentile (75) of Annual Earnings,"$61,056","$105,092","$164,307",BiomedicalEngineeringPremed
+Median Annual Earnings,"$40,460","$76,061","$126,030",BiomedicalEngineeringPremed
+Percentile (25) of Annual Earnings,"$20,793","$52,328","$81,388",BiomedicalEngineeringPremed
+EarnersCount,153,125,177,BiomedicalEngineeringPremed
+Count of Number of Records,153,125,177,BiomedicalEngineeringPremed
+Percentile (75) of Annual Earnings,"$98,448","$141,204","$232,986",BusinessInformationManagement
+Median Annual Earnings,"$78,619","$106,779","$174,871",BusinessInformationManagement
+Percentile (25) of Annual Earnings,"$60,325","$87,676","$120,641",BusinessInformationManagement
+EarnersCount,258,176,63,BusinessInformationManagement
+Count of Number of Records,258,176,63,BusinessInformationManagement
+Percentile (75) of Annual Earnings,"$85,676","$115,217","$171,838",BiomedicalEngineering
+Median Annual Earnings,"$71,242","$97,294","$139,396",BiomedicalEngineering
+Percentile (25) of Annual Earnings,"$52,088","$80,208","$110,834",BiomedicalEngineering
+EarnersCount,746,591,396,BiomedicalEngineering
+Count of Number of Records,746,591,396,BiomedicalEngineering
+Percentile (75) of Annual Earnings,"$53,090","$96,634","$176,643",BiologicalSciences
+Median Annual Earnings,"$36,865","$65,056","$120,630",BiologicalSciences
+Percentile (25) of Annual Earnings,"$21,319","$40,686","$79,635",BiologicalSciences
+EarnersCount,"5,890","4,154","6,126",BiologicalSciences
+Count of Number of Records,"5,890","4,154","6,126",BiologicalSciences
+Percentile (75) of Annual Earnings,"$80,553","$113,921","$186,665",BusinessAdministration
+Median Annual Earnings,"$64,520","$89,365","$139,662",BusinessAdministration
+Percentile (25) of Annual Earnings,"$46,616","$66,002","$94,169",BusinessAdministration
+EarnersCount,"1,502",850,310,BusinessAdministration
+Count of Number of Records,"1,502",850,310,BusinessAdministration
+Percentile (75) of Annual Earnings,"$76,041",,,Biology-Education
+Median Annual Earnings,"$69,327",,,Biology-Education
+Percentile (25) of Annual Earnings,"$60,052",,,Biology-Education
+EarnersCount,58,,,Biology-Education
+Count of Number of Records,58,,,Biology-Education
+Percentile (75) of Annual Earnings,"$53,187","$70,333","$108,257",ClassicalCivilization
+Median Annual Earnings,"$30,397","$54,132","$78,419",ClassicalCivilization
+Percentile (25) of Annual Earnings,"$18,745","$40,140","$61,367",ClassicalCivilization
+EarnersCount,39,41,49,ClassicalCivilization
+Count of Number of Records,39,41,49,ClassicalCivilization
+Percentile (75) of Annual Earnings,"$52,335",,,ChineseStudies
+Median Annual Earnings,"$39,267",,,ChineseStudies
+Percentile (25) of Annual Earnings,"$22,835",,,ChineseStudies
+EarnersCount,33,,,ChineseStudies
+Count of Number of Records,33,,,ChineseStudies
+Percentile (75) of Annual Earnings,"$58,863",,,CognitiveSciences
+Median Annual Earnings,"$44,774",,,CognitiveSciences
+Percentile (25) of Annual Earnings,"$29,163",,,CognitiveSciences
+EarnersCount,43,,,CognitiveSciences
+Count of Number of Records,43,,,CognitiveSciences
+Percentile (75) of Annual Earnings,"$56,789","$83,678","$111,415",ComparativeLiterature
+Median Annual Earnings,"$38,262","$56,826","$86,408",ComparativeLiterature
+Percentile (25) of Annual Earnings,"$22,831","$36,908","$61,642",ComparativeLiterature
+EarnersCount,147,138,119,ComparativeLiterature
+Count of Number of Records,147,138,119,ComparativeLiterature
+Percentile (75) of Annual Earnings,"$44,367","$65,790","$82,723",Dance
+Median Annual Earnings,"$25,534","$40,081","$53,056",Dance
+Percentile (25) of Annual Earnings,"$16,229","$20,107","$22,450",Dance
+EarnersCount,257,209,171,Dance
+Count of Number of Records,257,209,172,Dance
+Percentile (75) of Annual Earnings,"$120,655","$170,386","$216,886",ComputerScience&Engineering
+Median Annual Earnings,"$95,207","$125,337","$170,291",ComputerScience&Engineering
+Percentile (25) of Annual Earnings,"$72,513","$98,449","$129,112",ComputerScience&Engineering
+EarnersCount,440,282,156,ComputerScience&Engineering
+Count of Number of Records,440,282,156,ComputerScience&Engineering
+Percentile (75) of Annual Earnings,"$102,916","$132,252","$176,125",ComputerEngineering
+Median Annual Earnings,"$84,202","$109,772","$143,716",ComputerEngineering
+Percentile (25) of Annual Earnings,"$62,931","$85,002","$111,100",ComputerEngineering
+EarnersCount,840,741,606,ComputerEngineering
+Count of Number of Records,840,741,606,ComputerEngineering
+Percentile (75) of Annual Earnings,"$87,736","$125,832",,ComputerGameScience
+Median Annual Earnings,"$62,799","$95,275",,ComputerGameScience
+Percentile (25) of Annual Earnings,"$33,824","$60,618",,ComputerGameScience
+EarnersCount,268,178,,ComputerGameScience
+Count of Number of Records,268,178,,ComputerGameScience
+Percentile (75) of Annual Earnings,"$133,462","$180,193","$235,232",ComputerScience
+Median Annual Earnings,"$94,050","$128,080","$163,452",ComputerScience
+Percentile (25) of Annual Earnings,"$70,177","$92,642","$120,723",ComputerScience
+EarnersCount,"2,918","1,619",370,ComputerScience
+Count of Number of Records,"2,920","1,619",370,ComputerScience
+Percentile (75) of Annual Earnings,"$60,359","$91,878","$137,681",CriminolgyLaw&Society
+Median Annual Earnings,"$43,937","$65,635","$98,078",CriminolgyLaw&Society
+Percentile (25) of Annual Earnings,"$29,304","$46,523","$68,762",CriminolgyLaw&Society
+EarnersCount,"4,065","3,279","2,579",CriminolgyLaw&Society
+Count of Number of Records,"4,066","3,281","2,579",CriminolgyLaw&Society
+Percentile (75) of Annual Earnings,"$38,877","$58,119","$103,369",DancePerformance
+Median Annual Earnings,"$23,184","$31,187","$54,695",DancePerformance
+Percentile (25) of Annual Earnings,"$14,658","$14,903","$19,490",DancePerformance
+EarnersCount,118,75,42,DancePerformance
+Count of Number of Records,118,75,42,DancePerformance
+Percentile (75) of Annual Earnings,"$49,317","$71,378","$116,197",EastAsianCultures
+Median Annual Earnings,"$36,317","$56,491","$76,458",EastAsianCultures
+Percentile (25) of Annual Earnings,"$21,548","$40,759","$53,883",EastAsianCultures
+EarnersCount,118,90,80,EastAsianCultures
+Count of Number of Records,118,90,80,EastAsianCultures
+Percentile (75) of Annual Earnings,"$74,994","$104,961","$156,089",Economics
+Median Annual Earnings,"$58,383","$80,378","$111,543",Economics
+Percentile (25) of Annual Earnings,"$42,032","$59,525","$79,762",Economics
+EarnersCount,"3,694","3,389","3,011",Economics
+Count of Number of Records,"3,695","3,389","3,011",Economics
+Percentile (75) of Annual Earnings,"$50,133","$66,115","$132,725",Ecology&EvolutionaryBiology
+Median Annual Earnings,"$35,283","$50,370","$95,585",Ecology&EvolutionaryBiology
+Percentile (25) of Annual Earnings,"$21,138","$32,153","$69,926",Ecology&EvolutionaryBiology
+EarnersCount,80,63,59,Ecology&EvolutionaryBiology
+Count of Number of Records,80,63,59,Ecology&EvolutionaryBiology
+Percentile (75) of Annual Earnings,"$41,477","$60,614","$85,908",Drama
+Median Annual Earnings,"$27,723","$40,242","$58,411",Drama
+Percentile (25) of Annual Earnings,"$16,780","$23,774","$29,398",Drama
+EarnersCount,"1,166",908,668,Drama
+Count of Number of Records,"1,167",908,668,Drama
+Percentile (75) of Annual Earnings,"$61,627",,"$186,456",Developmental&CellBiology
+Median Annual Earnings,"$43,324",,"$140,685",Developmental&CellBiology
+Percentile (25) of Annual Earnings,"$29,274",,"$76,780",Developmental&CellBiology
+EarnersCount,47,,42,Developmental&CellBiology
+Count of Number of Records,47,,42,Developmental&CellBiology
+Percentile (75) of Annual Earnings,"$60,679","$85,975",,EarthSystemScience
+Median Annual Earnings,"$44,696","$68,889",,EarthSystemScience
+Percentile (25) of Annual Earnings,"$27,261","$49,112",,EarthSystemScience
+EarnersCount,184,139,,EarthSystemScience
+Count of Number of Records,184,141,,EarthSystemScience
+Percentile (75) of Annual Earnings,"$47,344",,,DanceChoreography
+Median Annual Earnings,"$31,207",,,DanceChoreography
+Percentile (25) of Annual Earnings,"$16,506",,,DanceChoreography
+EarnersCount,47,,,DanceChoreography
+Count of Number of Records,47,,,DanceChoreography
+Percentile (75) of Annual Earnings,"$62,815","$85,755","$124,294",Earth&EnvironmentalSciences
+Median Annual Earnings,"$47,488","$69,122","$91,607",Earth&EnvironmentalSciences
+Percentile (25) of Annual Earnings,"$25,924","$50,374","$69,181",Earth&EnvironmentalSciences
+EarnersCount,133,129,152,Earth&EnvironmentalSciences
+Count of Number of Records,133,129,152,Earth&EnvironmentalSciences
+Percentile (75) of Annual Earnings,"$130,229",,,DataScience
+Median Annual Earnings,"$96,019",,,DataScience
+Percentile (25) of Annual Earnings,"$76,917",,,DataScience
+EarnersCount,43,,,DataScience
+Count of Number of Records,43,,,DataScience
+Percentile (75) of Annual Earnings,"$72,006","$94,617","$125,238",EnvironmentalAnalysis&Design
+Median Annual Earnings,"$54,933","$73,141","$94,836",EnvironmentalAnalysis&Design
+Percentile (25) of Annual Earnings,"$38,880","$54,492","$70,000",EnvironmentalAnalysis&Design
+EarnersCount,381,384,409,EnvironmentalAnalysis&Design
+Count of Number of Records,381,384,409,EnvironmentalAnalysis&Design
+Percentile (75) of Annual Earnings,"$81,297","$103,293","$151,066",EnvironmentalEngineering
+Median Annual Earnings,"$71,367","$88,250","$115,178",EnvironmentalEngineering
+Percentile (25) of Annual Earnings,"$47,141","$73,657","$95,304",EnvironmentalEngineering
+EarnersCount,146,120,70,EnvironmentalEngineering
+Count of Number of Records,146,120,70,EnvironmentalEngineering
+Percentile (75) of Annual Earnings,"$98,439","$132,545","$172,129",Engineering-Electrical
+Median Annual Earnings,"$82,914","$108,420","$140,164",Engineering-Electrical
+Percentile (25) of Annual Earnings,"$62,054","$86,600","$108,482",Engineering-Electrical
+EarnersCount,"1,008",935,711,Engineering-Electrical
+Count of Number of Records,"1,008",935,711,Engineering-Electrical
+Percentile (75) of Annual Earnings,"$62,217",,,EnvironmentalScienceAndPolicy
+Median Annual Earnings,"$44,019",,,EnvironmentalScienceAndPolicy
+Percentile (25) of Annual Earnings,"$36,469",,,EnvironmentalScienceAndPolicy
+EarnersCount,50,,,EnvironmentalScienceAndPolicy
+Count of Number of Records,50,,,EnvironmentalScienceAndPolicy
+Percentile (75) of Annual Earnings,"$56,615","$78,458",,EuropeanStudies
+Median Annual Earnings,"$39,725","$60,257",,EuropeanStudies
+Percentile (25) of Annual Earnings,"$27,056","$44,935",,EuropeanStudies
+EarnersCount,33,36,,EuropeanStudies
+Count of Number of Records,33,36,,EuropeanStudies
+Percentile (75) of Annual Earnings,"$59,603","$81,048",,EnvironmentalScience
+Median Annual Earnings,"$47,605","$62,391",,EnvironmentalScience
+Percentile (25) of Annual Earnings,"$31,065","$44,923",,EnvironmentalScience
+EarnersCount,135,118,,EnvironmentalScience
+Count of Number of Records,135,119,,EnvironmentalScience
+Percentile (75) of Annual Earnings,"$51,876","$79,320",,EducationSciences
+Median Annual Earnings,"$35,881","$61,580",,EducationSciences
+Percentile (25) of Annual Earnings,"$23,832","$41,119",,EducationSciences
+EarnersCount,696,447,,EducationSciences
+Count of Number of Records,696,447,,EducationSciences
+Percentile (75) of Annual Earnings,"$89,059","$113,082","$151,559",Engineering-Civil
+Median Annual Earnings,"$77,173","$97,112","$125,896",Engineering-Civil
+Percentile (25) of Annual Earnings,"$63,037","$83,408","$101,170",Engineering-Civil
+EarnersCount,"1,186","1,152",846,Engineering-Civil
+Count of Number of Records,"1,186","1,152",846,Engineering-Civil
+Percentile (75) of Annual Earnings,"$55,624","$80,001","$114,130",English
+Median Annual Earnings,"$40,590","$60,502","$86,278",English
+Percentile (25) of Annual Earnings,"$24,260","$39,989","$59,084",English
+EarnersCount,"1,833","1,746","1,533",English
+Count of Number of Records,"1,835","1,746","1,533",English
+Percentile (75) of Annual Earnings,"$92,767","$118,497","$155,609",Engineering-Mechanical
+Median Annual Earnings,"$77,469","$101,121","$131,965",Engineering-Mechanical
+Percentile (25) of Annual Earnings,"$59,361","$83,846","$108,125",Engineering-Mechanical
+EarnersCount,"2,036","1,573",948,Engineering-Mechanical
+Count of Number of Records,"2,036","1,573",948,Engineering-Mechanical
+Percentile (75) of Annual Earnings,"$57,749","$81,608","$120,387",History
+Median Annual Earnings,"$39,946","$61,929","$83,669",History
+Percentile (25) of Annual Earnings,"$24,645","$39,073","$59,241",History
+EarnersCount,845,842,741,History
+Count of Number of Records,845,842,741,History
+Percentile (75) of Annual Earnings,"$58,923","$85,655","$105,218",French
+Median Annual Earnings,"$41,309","$65,828","$85,512",French
+Percentile (25) of Annual Earnings,"$26,192","$28,869","$58,929",French
+EarnersCount,52,46,32,French
+Count of Number of Records,52,46,32,French
+Percentile (75) of Annual Earnings,"$51,234","$75,838","$121,626",FilmAndMediaStudies
+Median Annual Earnings,"$36,291","$53,925","$84,725",FilmAndMediaStudies
+Percentile (25) of Annual Earnings,"$21,878","$34,296","$57,175",FilmAndMediaStudies
+EarnersCount,958,744,471,FilmAndMediaStudies
+Count of Number of Records,958,744,471,FilmAndMediaStudies
+Percentile (75) of Annual Earnings,"$57,414",,"$120,771",Genetics
+Median Annual Earnings,"$46,356",,"$92,903",Genetics
+Percentile (25) of Annual Earnings,"$26,067",,"$63,516",Genetics
+EarnersCount,48,,31,Genetics
+Count of Number of Records,48,,31,Genetics
+Percentile (75) of Annual Earnings,"$102,150","$131,807","$183,367",Information&ComputerSciences
+Median Annual Earnings,"$84,988","$108,051","$140,120",Information&ComputerSciences
+Percentile (25) of Annual Earnings,"$62,861","$84,481","$109,442",Information&ComputerSciences
+EarnersCount,"1,884","1,843","1,934",Information&ComputerSciences
+Count of Number of Records,"1,884","1,843","1,934",Information&ComputerSciences
+Percentile (75) of Annual Earnings,"$45,074",,,HumanBiology
+Median Annual Earnings,"$30,852",,,HumanBiology
+Percentile (25) of Annual Earnings,"$17,298",,,HumanBiology
+EarnersCount,182,,,HumanBiology
+Count of Number of Records,182,,,HumanBiology
+Percentile (75) of Annual Earnings,"$56,283","$74,411","$115,369",GlobalCultures
+Median Annual Earnings,"$42,909","$57,797","$82,613",GlobalCultures
+Percentile (25) of Annual Earnings,"$23,645","$36,610","$56,078",GlobalCultures
+EarnersCount,103,80,64,GlobalCultures
+Count of Number of Records,103,80,64,GlobalCultures
+Percentile (75) of Annual Earnings,"$47,664",,,ExerciseSciences
+Median Annual Earnings,"$31,052",,,ExerciseSciences
+Percentile (25) of Annual Earnings,"$17,617",,,ExerciseSciences
+EarnersCount,41,,,ExerciseSciences
+Count of Number of Records,41,,,ExerciseSciences
+Percentile (75) of Annual Earnings,"$66,094","$92,214","$136,688",InternationalStudies
+Median Annual Earnings,"$49,992","$68,202","$95,626",InternationalStudies
+Percentile (25) of Annual Earnings,"$34,617","$49,437","$66,698",InternationalStudies
+EarnersCount,"2,080","1,821","1,643",InternationalStudies
+Count of Number of Records,"2,081","1,822","1,643",InternationalStudies
+Percentile (75) of Annual Earnings,"$96,211","$145,264","$216,995",Informatics
+Median Annual Earnings,"$74,910","$105,221","$162,730",Informatics
+Percentile (25) of Annual Earnings,"$51,783","$79,233","$120,776",Informatics
+EarnersCount,617,413,146,Informatics
+Count of Number of Records,617,413,146,Informatics
+Percentile (75) of Annual Earnings,"$61,398","$75,532","$134,500",Microbiology&Immunology
+Median Annual Earnings,"$44,323","$59,125","$107,463",Microbiology&Immunology
+Percentile (25) of Annual Earnings,"$30,720","$47,206","$79,280",Microbiology&Immunology
+EarnersCount,85,38,38,Microbiology&Immunology
+Count of Number of Records,85,38,38,Microbiology&Immunology
+Percentile (75) of Annual Earnings,"$74,425","$100,874","$133,421",Mathematics
+Median Annual Earnings,"$54,793","$79,617","$102,188",Mathematics
+Percentile (25) of Annual Earnings,"$32,028","$58,246","$75,808",Mathematics
+EarnersCount,779,722,609,Mathematics
+Count of Number of Records,779,722,609,Mathematics
+Percentile (75) of Annual Earnings,"$47,382","$67,590","$92,414","Music, Performance"
+Median Annual Earnings,"$27,833","$35,061","$61,789","Music, Performance"
+Percentile (25) of Annual Earnings,"$15,922","$18,058","$32,770","Music, Performance"
+EarnersCount,128,146,110,"Music, Performance"
+Count of Number of Records,128,146,110,"Music, Performance"
+Percentile (75) of Annual Earnings,"$54,052","$76,347","$103,840",JapaneseLanguage&Literature
+Median Annual Earnings,"$40,324","$50,603","$71,150",JapaneseLanguage&Literature
+Percentile (25) of Annual Earnings,"$24,739","$30,494","$50,050",JapaneseLanguage&Literature
+EarnersCount,116,99,86,JapaneseLanguage&Literature
+Count of Number of Records,116,99,86,JapaneseLanguage&Literature
+Percentile (75) of Annual Earnings,"$53,264","$72,668","$91,188",Music
+Median Annual Earnings,"$36,000","$49,025","$71,034",Music
+Percentile (25) of Annual Earnings,"$20,260","$24,498","$47,106",Music
+EarnersCount,65,47,45,Music
+Count of Number of Records,65,47,45,Music
+Percentile (75) of Annual Earnings,"$89,193","$121,713",,MaterialsScience&Engineering
+Median Annual Earnings,"$76,800","$103,481",,MaterialsScience&Engineering
+Percentile (25) of Annual Earnings,"$59,160","$90,281",,MaterialsScience&Engineering
+EarnersCount,115,71,,MaterialsScience&Engineering
+Count of Number of Records,115,71,,MaterialsScience&Engineering
+Percentile (75) of Annual Earnings,"$54,519","$78,030","$117,881",LiteraryJournalism
+Median Annual Earnings,"$41,378","$60,400","$86,635",LiteraryJournalism
+Percentile (25) of Annual Earnings,"$27,930","$40,759","$59,132",LiteraryJournalism
+EarnersCount,437,386,278,LiteraryJournalism
+Count of Number of Records,437,386,278,LiteraryJournalism
+Percentile (75) of Annual Earnings,"$37,481",,,MusicTheatre
+Median Annual Earnings,"$24,798",,,MusicTheatre
+Percentile (25) of Annual Earnings,"$13,526",,,MusicTheatre
+EarnersCount,57,,,MusicTheatre
+Count of Number of Records,57,,,MusicTheatre
+Percentile (75) of Annual Earnings,"$45,324",,,KoreanLiteratureAndCulture
+Median Annual Earnings,"$40,950",,,KoreanLiteratureAndCulture
+Percentile (25) of Annual Earnings,"$25,649",,,KoreanLiteratureAndCulture
+EarnersCount,34,,,KoreanLiteratureAndCulture
+Count of Number of Records,34,,,KoreanLiteratureAndCulture
+Percentile (75) of Annual Earnings,"$48,134","$86,665","$198,850",Neurobiology
+Median Annual Earnings,"$35,908","$59,289","$115,030",Neurobiology
+Percentile (25) of Annual Earnings,"$18,327","$39,689","$73,133",Neurobiology
+EarnersCount,250,74,192,Neurobiology
+Count of Number of Records,250,74,192,Neurobiology
+Percentile (75) of Annual Earnings,"$54,475","$81,350","$114,831",Psychology&SocialBehavior
+Median Annual Earnings,"$39,195","$61,120","$85,961",Psychology&SocialBehavior
+Percentile (25) of Annual Earnings,"$25,897","$41,880","$61,499",Psychology&SocialBehavior
+EarnersCount,"4,096","3,891","2,960",Psychology&SocialBehavior
+Count of Number of Records,"4,096","3,891","2,960",Psychology&SocialBehavior
+Percentile (75) of Annual Earnings,"$56,601","$83,544","$118,827",Psychology
+Median Annual Earnings,"$40,851","$61,319","$88,970",Psychology
+Percentile (25) of Annual Earnings,"$25,704","$40,493","$62,896",Psychology
+EarnersCount,"3,074","2,580","2,543",Psychology
+Count of Number of Records,"3,074","2,581","2,543",Psychology
+Percentile (75) of Annual Earnings,"$53,191",,,PsychologicalScience
+Median Annual Earnings,"$38,166",,,PsychologicalScience
+Percentile (25) of Annual Earnings,"$25,076",,,PsychologicalScience
+EarnersCount,515,,,PsychologicalScience
+Count of Number of Records,515,,,PsychologicalScience
+Percentile (75) of Annual Earnings,"$62,257","$94,749","$149,782",PoliticalScience
+Median Annual Earnings,"$45,226","$67,937","$105,358",PoliticalScience
+Percentile (25) of Annual Earnings,"$28,424","$45,127","$72,683",PoliticalScience
+EarnersCount,"3,219","2,858","2,575",PoliticalScience
+Count of Number of Records,"3,220","2,858","2,575",PoliticalScience
+Percentile (75) of Annual Earnings,"$112,075","$139,535","$184,410",NursingScience
+Median Annual Earnings,"$95,683","$120,410","$140,455",NursingScience
+Percentile (25) of Annual Earnings,"$80,380","$102,839","$115,127",NursingScience
+EarnersCount,542,308,169,NursingScience
+Count of Number of Records,542,308,169,NursingScience
+Percentile (75) of Annual Earnings,"$49,088","$98,763","$188,212",PharmaceuticalScience
+Median Annual Earnings,"$33,498","$59,207","$146,418",PharmaceuticalScience
+Percentile (25) of Annual Earnings,"$18,774","$34,160","$101,225",PharmaceuticalScience
+EarnersCount,365,281,146,PharmaceuticalScience
+Count of Number of Records,365,281,146,PharmaceuticalScience
+Percentile (75) of Annual Earnings,"$60,330","$88,436","$142,349",Philosophy
+Median Annual Earnings,"$40,790","$62,543","$99,390",Philosophy
+Percentile (25) of Annual Earnings,"$23,847","$40,543","$68,208",Philosophy
+EarnersCount,331,284,247,Philosophy
+Count of Number of Records,331,284,247,Philosophy
+Percentile (75) of Annual Earnings,"$83,593","$118,314","$178,153",Physics
+Median Annual Earnings,"$61,465","$89,006","$133,342",Physics
+Percentile (25) of Annual Earnings,"$31,016","$59,515","$85,708",Physics
+EarnersCount,219,199,164,Physics
+Count of Number of Records,219,199,164,Physics
+Percentile (75) of Annual Earnings,"$53,879","$93,381","$155,145",PublicHealthSciences
+Median Annual Earnings,"$38,622","$64,366","$110,503",PublicHealthSciences
+Percentile (25) of Annual Earnings,"$23,974","$43,150","$77,843",PublicHealthSciences
+EarnersCount,"1,308","1,072",690,PublicHealthSciences
+Count of Number of Records,"1,308","1,072",690,PublicHealthSciences
+Percentile (75) of Annual Earnings,"$58,132","$90,253","$139,310",PublicHealthPolicy
+Median Annual Earnings,"$44,034","$66,934","$100,384",PublicHealthPolicy
+Percentile (25) of Annual Earnings,"$29,674","$48,664","$73,182",PublicHealthPolicy
+EarnersCount,"1,245",960,368,PublicHealthPolicy
+Count of Number of Records,"1,245",960,368,PublicHealthPolicy
