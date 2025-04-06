@@ -73,3 +73,19 @@ button:hover {
     font-size: 0.95rem;
   }
 }
+
+a {
+  color: #0078D4;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #005fa3;
+}
+
+.see-all-clubs {
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}

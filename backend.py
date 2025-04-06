@@ -11,9 +11,11 @@ gpa_df["normalized_major"] = gpa_df["major_name"].apply(lambda x: re.sub(r'[^a-z
 salary_df = pd.read_csv("UCI_Earnings_By_Major_Combined_CLEAN_FIXED.csv", names=["label", "2yr", "5yr", "10yr", "major"], skiprows=1)
 clubs_df = pd.read_csv("ClubData.csv", encoding='cp1252')
 
+#Normalize Text to easily compare
 def normalize(text):
     return re.sub(r'[^a-zA-Z0-9]', '', str(text)).lower()
 
+#easily grab GPA range from data
 def parse_gpa_range(gpa_range):
     if pd.isna(gpa_range) or "masked" in str(gpa_range).lower():
         return None
@@ -23,6 +25,7 @@ def parse_gpa_range(gpa_range):
     except:
         return None
 
+#Group and sort majors and campuses
 @app.route('/')
 def index():
     grouped = (
@@ -34,6 +37,7 @@ def index():
     majors = grouped.to_dict(orient="records")
     return render_template("websiteTemplate.html", majors=majors)
 
+#Input Desired Schools and major, and get the avg GPAs, UCI salary, and clubs
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.json
@@ -45,7 +49,7 @@ def predict():
         (gpa_df["campus"].str.upper().isin(campuses)) &
         (gpa_df["normalized_major"] == major)
     ]
-
+ 
     gpa_results = []
     for _, row in gpa_matches.iterrows():
         gpa_results.append({
@@ -104,6 +108,7 @@ def predict():
         "related_clubs": related_clubs
     })
 
+#Input a desired GPA and get majors that have high salaries based on your GPA
 @app.route('/roi', methods=['POST'])
 def roi():
     data = request.json

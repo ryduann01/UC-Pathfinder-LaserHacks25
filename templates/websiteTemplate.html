@@ -73,6 +73,7 @@
 
       if (data && data.related_clubs && data.related_clubs.length > 0) {
         results.innerHTML += `<h2>Clubs Related to Your Major</h2>`;
+        results.innerHTML += `<div class="see-all-clubs"><a href="https://www.ivc.edu/clubs/list" target="_blank">See All Clubs</a></div>`;
         data.related_clubs.forEach(c => {
           const websiteLink = c.url ? `<br><a href="${c.url}" target="_blank">Visit Website</a>` : "";
           results.innerHTML += `
@@ -87,6 +88,7 @@
 
       if (data.extra_clubs && data.extra_clubs.length > 0) {
         results.innerHTML += `<h2>Leadership, General, and Cultural Extracurriculars</h2>`;
+        results.innerHTML += `<div style="margin-bottom: 1rem;"><a href="https://www.ivc.edu/clubs/list" target="_blank">See All Clubs</a></div>`;
         data.extra_clubs.forEach(c => {
           results.innerHTML += `
             <div class="card">
